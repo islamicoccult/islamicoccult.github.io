@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Islamic Occult Studies on the Rise”
-author: "Matt Melvin-Koushki and Noah Gardiner"
+author: "Noah"
 categories: documentation
 tags: [documentation,sample]
 image: hamsah-1.jpg
