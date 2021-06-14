@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Some cool thing about astrology”
+title: Some cool thing about astrology
 author: Tunc Sen
 categories: contributions
 tags: [contributions]
