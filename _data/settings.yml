@@ -7,8 +7,8 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Schedule',           url: 'facts'}
-- {name: 'Contributions',      url: 'resources'}
+- {name: 'Schedule',           url: 'schedule'}
+- {name: 'Contributions',      url: 'contributions'}
 #- {name: 'Sample Posts',       url: 'sample-posts'}
 #- {name: 'Documentation',      url: 'documentation'}
 - {name: 'About',              url: 'about'}
