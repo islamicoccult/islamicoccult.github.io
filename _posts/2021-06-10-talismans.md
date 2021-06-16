@@ -16,4 +16,4 @@ Rhoncus mattis rhoncus urna neque viverra. Sollicitudin aliquam ultrices sagitti
 
 Suspendisse in est ante in nibh mauris cursus mattis. Odio facilisis mauris sit amet massa vitae tortor. Aliquam nulla facilisi cras fermentum odio. Sagittis nisl rhoncus mattis rhoncus urna neque viverra. Morbi tristique senectus et netus et malesuada. Arcu non odio euismod lacinia. Pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl. Et netus et malesuada fames. Congue mauris rhoncus aenean vel elit scelerisque. Accumsan sit amet nulla facilisi morbi tempus.
 
-[^1] here’s a footnote
+[^1]: here’s a footnote
