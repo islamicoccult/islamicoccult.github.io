@@ -1,6 +1,6 @@
 ---
 layout: category
-title: News and Announcements
+title: News
 category: news
 permalink: /news
 ---
