@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talismans actually work!
+title: Miss Piggy on Talismans that actually work!
 author: Miss Piggy
 categories: contributions
 tags: [contributions]
