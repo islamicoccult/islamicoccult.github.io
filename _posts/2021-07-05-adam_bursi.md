@@ -24,8 +24,7 @@ Image: P. Duke. inv. 274r.
 
 [^2]: Ibid.
 
-[^3]: Ibid., 92, 94. G.H.A. Juynboll, *Encyclopedia of Canonical Ḥadīth* (Leiden: Brill, 2007), 642 suggests that the debate over *ruqya*s “surely is very old” given the large number of opinions attributed to Companions and Successors. On these issues generally, see:  Lawrence I. Conrad, “Arab-Islamic Medicine,” in *Companion Encyclopedia of the History of Medicine*, 2 vols., ed.
-W. F. Bynum and Roy Porter (London: Routledge, 1993), 1:676-727.
+[^3]: Ibid., 92, 94. G.H.A. Juynboll, *Encyclopedia of Canonical Ḥadīth* (Leiden: Brill, 2007), 642 suggests that the debate over *ruqya*s “surely is very old” given the large number of opinions attributed to Companions and Successors. On these issues generally, see:  Lawrence I. Conrad, “Arab-Islamic Medicine,” in *Companion Encyclopedia of the History of Medicine*, 2 vols., ed. W. F. Bynum and Roy Porter (London: Routledge, 1993), 1:676-727.
 
 [^4]: Abū Dāwūd al-Sijistānī, *Kitāb al-Sunan*, ed. Muḥammad ʿAwwāma, 5 vols. (Jeddah: Dār al-Qibla li-l-Thaqāfa al-Islāmiyya, 1998), 4:328-29; Ibn Mājah, *Sunan Ibn Mājah*, ed. Muḥammad Fuʾād ʿAbd al-Bāqī, 2 vols. (Cairo: ʿĪsā al-Bābī al-Ḥalabī, 1972), 2:1167.
 
