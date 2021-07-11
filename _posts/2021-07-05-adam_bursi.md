@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Sorcery, Idolatry, or Sunna — Defining Magical Healing in Early Islam
+title: Adam Bursi on Sorcery, Idolatry, or Sunna — Defining Magical Healing in Early Islam
 author: Adam Bursi
 categories: contributions
 tags: [contributions]
