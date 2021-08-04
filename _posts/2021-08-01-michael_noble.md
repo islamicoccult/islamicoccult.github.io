@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Occult Roots of Fakhr al-Dīn al-Rāzī’s Counter-Avicennan Soteriology
+title: Michael Noble on the Occult Roots of Fakhr al-Dīn al-Rāzī’s Counter-Avicennan Soteriology
 author: Michael Noble
 categories: contributions
 tags: [contributions]
