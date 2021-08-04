@@ -27,6 +27,18 @@ That being said, there was one loosely-connected network to which Āẕarī had 
 
 While the writings of Āẕarī seem to operate on a more theoretical than practical level, his considerations of the Disconnected Letters, the *mahdī*, and a wide swath of other topics in his occult compendia should not be taken as mere musings. On the contrary, these exact topics -- the relationship between *mahdī*-hood and political sovereignty, or the place of lettrism in the hierarchy of the sciences -- were at the core of debates over the legitimate exercise of power across the Islamic world in the time of Āẕarī. Closely linked to Timurid courts from a young age, Āẕarī's first "retirement" still involved him being invited to the court of Aḥmad Shāh in Bīdar, mentoring the crown prince and being showered in wealth.[^11] So too were his last forty years as a Ṣūfī contemplative in Isfarāyin interrupted to provide counsel on the question of justice (*ʿadālat*) to the Timurid Sulṭān-Muḥammad b. Bāysunghur.[^12] Given the fact that the prose work of Āẕarī reflected a familiarity with the religious and political debates roiling the 9th/15th Islamic world, his being in such high demand in the courts of Timurid and Bahmanid realms was likely not merely because of his skill as a poet. On the contrary, there were very "real-world" implications to theoretical examinations of the occult sciences as found in the *Miftāḥ* and *Javāhir*. Perhaps Āẕarī being a fixture at some of the most powerful courts of the 9th/15th century Islamic world was not merely due to his ability in the poetic arts, but also his knowledge of the occult. 
 
+### Author bio
+
+[Zach Winters](https://nelc.uchicago.edu/zach-winters) is a PhD candidate at the University of Chicago, specializing in the study of the occult sciences in the Persianate
+world in the 8th-9th/14th-15th centuries. Specifically, his dissertation is focused on the life and times of Shaykh Āẕarī Isfarāyinī,
+a poet, Ṣūfī, and occultist who served at courts from Tabrīz to Bīdar. The project will build from the specific case of Āẕarī to
+explore the broader intellectual networks of which he was connected, including the radical, messianic Ḥurūfiyya movement.
+Other major areas of interest include the Ḥurūfiyya movement of Fażl Allāh Astarābādī and its spread throughout the Islamic world in
+the late 14th and early 15th centuries; the occult sciences in the Timurid period; the history of the Muslim sultanates of the
+Deccan; theories of empire in the 15th-century Islamic world; and other messianic movements of the Persianate world in the
+post-Mongol period, such as the Musha‘sha‘id movement. Zach wrote his MA thesis on the early period of the Musha‘sha‘ids and the
+teachings of their founder, Sayyid Muḥammad ibn Falāḥ al-Musha‘sha‘.
+
 ***
 
 [^1]: Note, for example, work on individuals such as ʿAbd al-Raḥmān Bisṭāmī, Ṣāʿin al-Dīn Turka, and Sharaf al-Dīn ʿAlī Yazdī, or the esoteric sciences in the courts of the Indian Deccan: Cornell H. Fleischer, “Ancient Wisdom and New Sciences: Prophecies at the Ottoman Court in the Fifteenth and Early Sixteenth Centuries,” in *Falnama: The Book of Omens*, ed. Massumeh Farhad and Serpil Bağcı (London: Thames & Hudson, 2009); Matthew Melvin-Koushki, “The Quest for a Universal Science: The Occult Philosophy of Ṣāʾin al-Dīn Turka Iṣfahānī (1369-1432) and Intellectual Millenarianism in Early Timurid Iran” (Ph.D., United States -- Connecticut, Yale University, 2012); İlker Evrim Binbaş, *Intellectual Networks in Timurid Iran: Sharaf al-Dīn ʿAlī Yazdī and the Islamicate Republic of Letters*, Cambridge Studies in Islamic Civilization (Cambridge: Cambridge University Press, 2016); Emma Flatt, *The Courts of the Deccan Sultanates: Living Well in the Persian Cosmopolis* (Cambridge: Cambridge University Press, 2019), 210-267. 
@@ -52,4 +64,4 @@ While the writings of Āẕarī seem to operate on a more theoretical than pract
 
 [^11]: Muḥammad Qāsim Hindū Shāh Astarābādī Firishta, *Tārīkh-i Firishta*, ed. Muḥammad Riżā Naṣīrī, vol. 2, 4 vols. (Tehran: Anjumān-i Āsār va Mafākhir-i Farhangī, 2009), 375.
 
-[^12]: *Taẕkirat al-Shuʿarāʾ*, 400.
+[^12]: *Taẕkirat al-Shuʿarāʾ*, 301-302.

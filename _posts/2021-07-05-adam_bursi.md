@@ -20,6 +20,8 @@ It is noteworthy, then, that some of the most critical positions regarding *ruqy
 
 Image: P. Duke. inv. 274r.
 
+***
+
 [^1]: M. J. Kister, “On ‘Concessions’ and Conduct: A Study in Early *Ḥadīth*,” in *Studies on the First Century of Islamic Society*, ed. G.H.A. Juynboll (Carbondale: Southern Illinois University Press, 1982), 89.
 
 [^2]: Ibid.

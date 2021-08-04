@@ -90,6 +90,8 @@ What is even more surprising for the close reader of al-Rāzī’s oeuvre is tha
 
 
 
+### Author bio
+
 Having received his degree in Arabic and Hebrew from St. John's College, Oxford, [Michael Noble](https://lmu-munich.academia.edu/MichaelNoble) was awarded his PhD from the Warburg Institute, London, in 2017. 
 It was published this year by De Gruyter under the title *Philosophising the Occult: Avicennan Psychology in the* Hidden Secret *of Fakhr al-Din al-Razi*. 
 Currently, he is based at the Ludwig-Maximilian University, Munich, where he is a post-doctoral researcher on the DFG-funded Heirs to Avicenna project, headed by Professor Peter Adamson. 
