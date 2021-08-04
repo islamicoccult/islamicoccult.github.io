@@ -7,7 +7,7 @@ tags: [contributions]
 image: michael_noble.jpg
 ---
 
-There was no greater concern to Islamic thinkers of the pre-modern Islamic period than the question of individual salvation—not least to Avicenna (d. 1038). 
+There was no greater concern to Islamic thinkers of the pre-modern Islamic period than the question of individual salvation—not least to Avicenna (d. 427/1037). 
 In naming one of his most popular philosophical summae *al-Najāt* (The Salvation) he held out to the intellectual elite the promise that the soul could be perfected in its theoretical and practical dimensions, and delivered from the perdition of philosophical error. 
 So comprehensive was his scientific vision that it represented nothing less than a philosophical soteriology that demanded a response—of either assent or dissent—from the proponents of the various philosophical and theological schools of the time. 
 
