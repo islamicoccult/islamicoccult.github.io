@@ -18,6 +18,11 @@ By examining these scattered reports in early Islamic texts regarding the parame
 
 It is noteworthy, then, that some of the most critical positions regarding *ruqya*s and related practices are ascribed to early Muslim scholars from Iraq. In a recent study of early Muslims’ usage of Qurʾānic amulets and their drinking dissolved verses of the Qurʾān, Travis Zadeh observes that the majority of traditionists who contested such practices were Iraqis, and Zadeh suggests that second/eighth controversies over these issues “may well have been entirely focused on Iraq.”[^12] Within our sources, voices expressing discomfort with the usage of *ruqya*s also come largely from Kūfa and Baṣra, and much of the debate on this issue does appear to center on Iraq. Leor Halevi has argued that in the Iraqi garrison cities of Baṣra and Kūfa, a distinct effort was made over the course of the first/seventh and second/eighth centuries to distinguish Islamic from non-Islamic ritual practice. Halevi points in particular to Iraqi jurists’ definition of funereal rituals “that would signal the divergence of their religious community from others.”[^13] It may be that early Muslims’ interests in the formation of distinctly Islamic ritual practices extended also into healing practices like incantations and amulets, and that these too were a point of communal identification like prayer and other religious rituals that Iraqi jurists were eager to define.[^14]
 
+
+### Author bio
+**Adam Bursi** (PhD, Cornell University) is a Postdoctoral Researcher at Utrecht University in the European Research Council-funded project “SENSIS: The Senses of Islam.” His research studies early Islam in dialogue with other late antique religions, focusing on the ways that rituals related to relics, pilgrimage, and healing were interwoven with the formation and performance of communal identity among early Muslims. His articles have been published in the journals *Studies in Late Antiquity*, the *Journal of the International Qur’anic Studies Association*, *Arabica*, among others, and many of them can be found on his [academia.edu page](https://adambursi.academia.edu).
+
+
 Image: P. Duke. inv. 274r.
 
 ***
@@ -51,5 +56,4 @@ Image: P. Duke. inv. 274r.
 [^14]: For a more extended discussion of the topics examined here, see: Adam Bursi, “Holy Spit and Magic Spells: Religion, Magic and the Body in Late Ancient Judaism, Christianity, and Islam” (PhD diss., Cornell University, 2015), chap. 3, available [online](https://hdl.handle.net/1813/40591).
 
 
-**Adam Bursi** (PhD, Cornell University) is a Postdoctoral Researcher at Utrecht University in the European Research Council-funded project “SENSIS: The Senses of Islam.” His research studies early Islam in dialogue with other late antique religions, focusing on the ways that rituals related to relics, pilgrimage, and healing were interwoven with the formation and performance of communal identity among early Muslims. His articles have been published in the journals *Studies in Late Antiquity*, the *Journal of the International Qur’anic Studies Association*, *Arabica*, among others, and many of them can be found on his [academia.edu page](https://adambursi.academia.edu).
 
