@@ -88,3 +88,10 @@ Whilst he was one of Avicenna’s most dogged critics, Fakhr al-Dīn al-Rāzī w
 In this way Rāzī cleared the ground to erect his own counter-Avicennan soteriology for members of the scientific elite, each of whom could realize the perfection of the theoretical faculty through a stabilised noetic connection with his own perfect nature, by means of which he could engage in scientific inquiry and pursue the sublime goals of metaphysics. Motivated by the concern to neutralize the explanatory power of the Avicennan naturalistic account of prophethood, his aim was to preserve the exclusivity of prophethood for an essentially distinct class of human, whilst providing the space for the personal soteriology of the scientific elite. 
 What is even more surprising for the close reader of al-Rāzī’s oeuvre is that this grand soteriological project began in The Hidden Secret. 
 
+
+
+Having received his degree in Arabic and Hebrew from St. John's College, Oxford, [Michael Noble](https://lmu-munich.academia.edu/MichaelNoble) was awarded his PhD from the Warburg Institute, London, in 2017. 
+It was published this year by De Gruyter under the title *Philosophising the Occult: Avicennan Psychology in the* Hidden Secret *of Fakhr al-Din al-Razi*. 
+Currently, he is based at the Ludwig-Maximilian University, Munich, where he is a post-doctoral researcher on the DFG-funded Heirs to Avicenna project, headed by Professor Peter Adamson. 
+His research focuses on the reception of Avicennan psychology and cosmology. He has specific interests in post-Avicennan epistemology, theories of cognition and imagination, and the debates concerning the origin and nature of soul. 
+His personal research aims at situating the Islamic occult sciences in the broader context of the creative dialogue between philosophy and theology in the twelfth and thirteenth centuries.
