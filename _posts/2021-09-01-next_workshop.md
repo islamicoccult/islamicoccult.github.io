@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Islamic Occult Studies on the Rise: Next Workshop, August 27"
-author: Matthew Melvin Koushki and Noah Gardiner
+author: Matthew Melvin-Koushki and Noah Gardiner
 categories: schedule
 tags: [schedule,contributions]
 image: hamsah-1.jpg
@@ -11,7 +11,7 @@ Welcome to the website of Islamic Occult Studies on the Rise, an online internat
 
 ## Next meeting: Friday, August 27, 2021
 
-The schedule for the next meeting is as follows...
+The schedule for the next meeting is as follows:
 
 ## Panel 1: Knowing the Cosmos, 10:00 — 11:20 a.m.	
 
