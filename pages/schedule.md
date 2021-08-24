@@ -4,7 +4,7 @@ title: Workshop Schedule
 permalink: /schedule
 ---
 
-The workshop will run through December 2021. The schedule is determined and a rolling business, and we’re always happy to hear suggestions for panels or individual contributions. The full schedule is as follows:
+The workshop will run through December 2021. The schedule is assembled on a rolling basis, and we’re always happy to hear suggestions for panels or individual contributions. The full schedule is as follows:
 
 ## Friday, March 26, 2021
 
