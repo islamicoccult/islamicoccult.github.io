@@ -68,13 +68,13 @@ Side Emre, Associate Professor, *Texas A&M University*
 
 ## Friday, August 27, 2021
 
-## Panel 1: Knowing the Cosmos
+### Panel 1: Knowing the Cosmos
 
 Mariam Sabri, PhD Candidate, *University of California, Berkeley*
 
 Aaron Viengkhou, PhD Candidate, *Harvard University*
 
-## Panel 2: Alchemy
+### Panel 2: Alchemy
 
 Salam Rassi, Postdoctoral Fellow, *University of Oxford*
 
