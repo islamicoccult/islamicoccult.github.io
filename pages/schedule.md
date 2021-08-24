@@ -18,6 +18,7 @@ Michael Noble, Postdoctoral Fellow, *University of Munich*
 
 M. Fariduddin Attar, Ph.D. Candidate, *McGill University*
 
+***
 
 ## Friday, April 23, 2021
 
@@ -31,6 +32,7 @@ Nicholas Harris, Ph.D. Candidate, *University of Pennsylvania*
 
 Zach Winters, Ph.D. Candidate, *University of Chicago*
 
+***
 
 ## Friday, May 28, 2021
 
@@ -46,6 +48,7 @@ Shireen Hamza, Ph.D. Candidate, *Harvard University*
 
 Adam Bursi, Postdoctoral Fellow, *Utrecht University*
 
+***
 
 ## Friday, June 25, 2021
 
@@ -61,6 +64,7 @@ Dunja Rašić, Lecturer, *University of Belgrade*
 
 Side Emre, Associate Professor, *Texas A&M University*
 
+***
 
 ## Friday, August 27, 2021
 
@@ -76,6 +80,7 @@ Salam Rassi, Postdoctoral Fellow, *University of Oxford*
 
 Tuna Artun, Assistant Professor, *Rutgers University, New Brunswick*
 
+***
 
 ## Friday, September 17, 2021
 
@@ -91,6 +96,7 @@ Jane Mikkelson, Postdoctoral Fellow, *University of Virginia*
 
 Domenico Ingenito, Assistant Professor, *UCLA*
 
+***
 
 ### Details of the October, November, and December meetings are TBD.
 
