@@ -13,19 +13,19 @@ Welcome to the website of Islamic Occult Studies on the Rise, an online internat
 
 The schedule for the next meeting is as follows:
 
-## Panel 1: Knowing the Cosmos, 10:00 — 11:20 a.m.	
+### Panel 1: Knowing the Cosmos, 10:00 — 11:20 a.m.	
 
 Mariam Sabri, PhD Candidate, *University of California, Berkeley*
 
 Aaron Viengkhou, PhD Candidate, *Harvard University*
 
 
-## Panel 2: Alchemy, 11:30 — 12:50 p.m.
+### Panel 2: Alchemy, 11:30 — 12:50 p.m.
 
 Salam Rassi, Postdoctoral Fellow, *University of Oxford*
 
 Tuna Artun, Assistant Professor, *Rutgers University, New Brunswick*
 
 
-## Happy Hour! 1pm til...
-As always, we’ll have several zoom-rooms open for as long as the conversation remains lively.
+### Happy Hour! 1pm til...
+A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s always, we’ll have several zoom-rooms open for as long as the conversation remains lively.
