@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Islamic Occult Studies on the Rise: Next Workshop, August 27"
+title: "Islamic Occult Studies on the Rise: Next Workshop, September 17"
 author: Matthew Melvin-Koushki and Noah Gardiner
 categories: schedule
 tags: [schedule,contributions]
@@ -9,23 +9,22 @@ image: hamsah-1.jpg
 
 Welcome to the website of Islamic Occult Studies on the Rise, an online international workshop on the Islamic occult sciences and related matters. Below is information on the upcoming meeting. Click Schedule in the menu above for the complete list of panels.
 
-## Next meeting: Friday, August 27, 2021
+## Next meeting: Friday, September 17, 2021
 
 The schedule for the next meeting is as follows:
 
-### Panel 1: Knowing the Cosmos, 10:00 — 11:20 a.m.	
+### Panel 1: Geomancy
 
-Mariam Sabri, PhD Candidate, *University of California, Berkeley*
+Blanca Villuendas, Postdoctoral Fellow, *University of Oxford*
 
-Aaron Viengkhou, PhD Candidate, *Harvard University*
+Deji Ogunnaike, Assistant Professor, *Bowdoin College*
 
 
-### Panel 2: Alchemy, 11:30 — 12:50 p.m.
+### Panel 2: Poetry and the Unseen
 
-Salam Rassi, Postdoctoral Fellow, *University of Oxford*
+Jane Mikkelson, Postdoctoral Fellow, *University of Virginia*
 
-Tuna Artun, Assistant Professor, *Rutgers University, New Brunswick*
-
+Domenico Ingenito, Assistant Professor, *UCLA*
 
 ### Happy Hour! 1pm til...
-A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s always, we’ll have several zoom-rooms open for as long as the conversation remains lively.
+As always, we’ll have several zoom-rooms open for as long as the conversation remains lively.
