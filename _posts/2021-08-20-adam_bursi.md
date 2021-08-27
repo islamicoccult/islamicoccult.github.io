@@ -22,8 +22,7 @@ It is noteworthy, then, that some of the most critical positions regarding *ruqy
 ### Author bio
 **Adam Bursi** (PhD, Cornell University) is a Postdoctoral Researcher at Utrecht University in the European Research Council-funded project “SENSIS: The Senses of Islam.” His research studies early Islam in dialogue with other late antique religions, focusing on the ways that rituals related to relics, pilgrimage, and healing were interwoven with the formation and performance of communal identity among early Muslims. His articles have been published in the journals *Studies in Late Antiquity*, the *Journal of the International Qur’anic Studies Association*, *Arabica*, among others, and many of them can be found on his [academia.edu page](https://adambursi.academia.edu).
 
-
-Image: P. Duke. inv. 274r.
+Copyright Adam Bursi, 2021.
 
 ***
 

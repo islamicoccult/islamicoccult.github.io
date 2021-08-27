@@ -97,3 +97,5 @@ It was published this year by De Gruyter under the title *Philosophising the Occ
 Currently, he is based at the Ludwig-Maximilian University, Munich, where he is a post-doctoral researcher on the DFG-funded Heirs to Avicenna project, headed by Professor Peter Adamson. 
 His research focuses on the reception of Avicennan psychology and cosmology. He has specific interests in post-Avicennan epistemology, theories of cognition and imagination, and the debates concerning the origin and nature of soul. 
 His personal research aims at situating the Islamic occult sciences in the broader context of the creative dialogue between philosophy and theology in the twelfth and thirteenth centuries.
+
+Copyright Michael Noble, 2021.

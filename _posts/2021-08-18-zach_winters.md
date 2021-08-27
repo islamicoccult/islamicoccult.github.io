@@ -39,6 +39,8 @@ Deccan; theories of empire in the 15th-century Islamic world; and other messiani
 post-Mongol period, such as the Musha‘sha‘id movement. Zach wrote his MA thesis on the early period of the Musha‘sha‘ids and the
 teachings of their founder, Sayyid Muḥammad ibn Falāḥ al-Musha‘sha‘.
 
+Copyright Zach Winters, 2021.
+
 ***
 
 [^1]: Note, for example, work on individuals such as ʿAbd al-Raḥmān Bisṭāmī, Ṣāʿin al-Dīn Turka, and Sharaf al-Dīn ʿAlī Yazdī, or the esoteric sciences in the courts of the Indian Deccan: Cornell H. Fleischer, “Ancient Wisdom and New Sciences: Prophecies at the Ottoman Court in the Fifteenth and Early Sixteenth Centuries,” in *Falnama: The Book of Omens*, ed. Massumeh Farhad and Serpil Bağcı (London: Thames & Hudson, 2009); Matthew Melvin-Koushki, “The Quest for a Universal Science: The Occult Philosophy of Ṣāʾin al-Dīn Turka Iṣfahānī (1369-1432) and Intellectual Millenarianism in Early Timurid Iran” (Ph.D., United States -- Connecticut, Yale University, 2012); İlker Evrim Binbaş, *Intellectual Networks in Timurid Iran: Sharaf al-Dīn ʿAlī Yazdī and the Islamicate Republic of Letters*, Cambridge Studies in Islamic Civilization (Cambridge: Cambridge University Press, 2016); Emma Flatt, *The Courts of the Deccan Sultanates: Living Well in the Persian Cosmopolis* (Cambridge: Cambridge University Press, 2019), 210-267. 
