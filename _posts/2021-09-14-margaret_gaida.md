@@ -36,29 +36,12 @@ A later section in several zijes takes up more specific topics of mathematical a
 In terms of how students learned astrology, and particularly its technical content, it is difficult to generalize from the textual evidence alone, particularly across the expansive Islamic empire and the waxing and waning in the popularity of astrology across centuries. In the early period, especially the ninth to eleventh centuries, it appears that students of astrology would have used the *zīj* to learn how to make calculations, accompanied by a *mudkhal* to understand the significance of these calculations and how to go about interpreting them. It is likely that learning astrology with the use of these texts would have been facilitated by a practicing astrologer, who would no doubt have supplemented the textual material with oral instruction. More work needs to be done in documenting and assessing the astrological content of zijes. We may conclude, at least, that introductory astrological texts and planetary tables formed a pedagogical couplet that served as the basis for astrological learning.	
 
 ### Author bio
-Margaret Gaida is currently a Postdoctoral Researcher at Caltech. Her research focuses on the transmission and exchange of astronomical and astrological knowledge between Europe and the Islamic world during the period between 900 and 1600 CE. Dr. Gaida is interested in the materiality of texts, textual genres, and the intersection of texts, images and instruments. Her work has been funded by the American Academy in Rome, the Council for American Overseas Research Centers, and the American Council of Learned Societies. Dr. Gaida is currently working on her first book, The Lost Art of Arabic Astrology.
+Margaret Gaida is currently a Postdoctoral Researcher at Caltech. Her research focuses on the transmission and exchange of astronomical and astrological knowledge between Europe and the Islamic world during the period between 900 and 1600 CE. Dr. Gaida is interested in the materiality of texts, textual genres, and the intersection of texts, images and instruments. Her work has been funded by the American Academy in Rome, the Council for American Overseas Research Centers, and the American Council of Learned Societies. Dr. Gaida is currently working on her first book, *The Lost Art of Arabic Astrology*.
 
 Copyright Margaret Gaida, 2021.
 
 
-***
- 
- 
-[^1]: al-Qabīṣī, Abū-'ṣ-Ṣaqr ʻAbd-al-ʻAzīz Ibn-ʻUt̲mān, The Introduction to Astrology: Editions of the Arabic and Latin texts and an English translation, edited and translated by Charles Burnett, Keiji Yamamoto, and Michio Yano, Warburg Institute Studies and Texts 2, London: Warburg Institute, 2004, 1:[3], 19.
-
-[^2]: al-Qabīṣī, Introduction, 4:[4], 115. 
-
-[^3]: al-Qabīṣī, Introduction, 121-2.
-
-[^4]: ibn Labbān, Kūshyār, Introduction to Astrology, edited and translated by Michio Yano, Studia culturae islamicae, 62. Tokyo : Inst. for the Study of Languages and Cultures of Asia and Africa, 1997, III.20 [9], p. 221.
-
-[^5]: Kūshyār ibn Labbān, Introduction, III.20 [16], p. 225.
-
-[^6]: Kūshyār ibn Labbān, Introduction, III.21 [1], p. 231.
-
-
-
-### **Further Reading:**
+### Further Reading:
 
 Abū Maʿshar. *The Abbreviation of the Introduction to Astrology, together with the Medieval Latin Translation of Adelard of Bath*. Edited and translated by Charles Burnett, Keiji Yamamoto, and Michio Yano. Leiden: Brill, 1994.
 
@@ -84,7 +67,19 @@ Samso, Julio. *Astronomy and Astrology in al-Andalus and the Magrhib*. Aldershot
 
 Van Brummelen, Glen. “The Travels of Astronomical Tables within Medieval Islam: a Summary.” *Suhayl* 13 (2014): 11-21. 
 
+***
 
+[^1]: al-Qabīṣī, Abū-'ṣ-Ṣaqr ʻAbd-al-ʻAzīz Ibn-ʻUt̲mān, The Introduction to Astrology: Editions of the Arabic and Latin texts and an English translation, edited and translated by Charles Burnett, Keiji Yamamoto, and Michio Yano, Warburg Institute Studies and Texts 2, London: Warburg Institute, 2004, 1:[3], 19.
+
+[^2]: al-Qabīṣī, Introduction, 4:[4], 115. 
+
+[^3]: al-Qabīṣī, Introduction, 121-2.
+
+[^4]: ibn Labbān, Kūshyār, Introduction to Astrology, edited and translated by Michio Yano, Studia culturae islamicae, 62. Tokyo : Inst. for the Study of Languages and Cultures of Asia and Africa, 1997, III.20 [9], p. 221.
+
+[^5]: Kūshyār ibn Labbān, Introduction, III.20 [16], p. 225.
+
+[^6]: Kūshyār ibn Labbān, Introduction, III.21 [1], p. 231.
 
 
 
