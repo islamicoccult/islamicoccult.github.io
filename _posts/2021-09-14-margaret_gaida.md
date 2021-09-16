@@ -71,13 +71,13 @@ Van Brummelen, Glen. “The Travels of Astronomical Tables within Medieval Islam
 
 [^1]: al-Qabīṣī, Abū-'ṣ-Ṣaqr ʻAbd-al-ʻAzīz Ibn-ʻUt̲mān, *The Introduction to Astrology: Editions of the Arabic and Latin texts and an English translation*, edited and translated by Charles Burnett, Keiji Yamamoto, and Michio Yano, Warburg Institute Studies and Texts 2, London: Warburg Institute, 2004, 1:(3), 19.
 
-[^2]: al-Qabīṣī, Introduction, 4:(4), 115. 
+[^2]: al-Qabīṣī, *Introduction*, 4:(4), 115. 
 
-[^3]: al-Qabīṣī, Introduction, 121-2.
+[^3]: al-Qabīṣī, *Introduction*, 121-2.
 
-[^4]: ibn Labbān, Kūshyār, Introduction to Astrology, edited and translated by Michio Yano, Studia culturae islamicae, 62. Tokyo : Inst. for the Study of Languages and Cultures of Asia and Africa, 1997, III.20 (9), p. 221.
+[^4]: ibn Labbān, Kūshyār, *Introduction to Astrology*, edited and translated by Michio Yano, Studia culturae islamicae, 62. Tokyo : Inst. for the Study of Languages and Cultures of Asia and Africa, 1997, III.20 (9), p. 221.
 
-[^5]: Kūshyār ibn Labbān, Introduction, III.20 (16), p. 225.
+[^5]: Kūshyār ibn Labbān, *Introduction*, III.20 (16), p. 225.
 
-[^6]: Kūshyār ibn Labbān, Introduction, III.21 (1), p. 231.
+[^6]: Kūshyār ibn Labbān, *Introduction*, III.21 (1), p. 231.
 
