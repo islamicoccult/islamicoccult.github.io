@@ -80,4 +80,3 @@ Van Brummelen, Glen. “The Travels of Astronomical Tables within Medieval Islam
 [^5]: Kūshyār ibn Labbān, *Introduction*, III.20 (16), p. 225.
 
 [^6]: Kūshyār ibn Labbān, *Introduction*, III.21 (1), p. 231.
-
