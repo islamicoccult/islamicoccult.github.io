@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Seasons of Sentiments\: Tracing Temporality from the Indic Bārahmāsā as a Method for Islamicate Intellectual History
+title: Mariam Sabri on Seasons of Sentiments, Tracing Temporality from the Indic Bārahmāsā as a Method for Islamicate Intellectual History
 author: Mariam Sabri
 categories: contributions
 tags: [contributions]

@@ -14,6 +14,7 @@ The *bārahmāsā* informed temporal conception for a set of entangled time-tell
 
 
 > *When the Sun is in Sarat̤ān (Cancer) it is the month of Sāwan*
+
 > *Know that Leo in Murdād’s means the month of Bahādarūn*
 
 
@@ -62,13 +63,13 @@ Seasonal time and hourly time are interwoven in this meditation on the monsoon b
 The work of the poets and artists of the *bārahmāsā* elevated the collective aesthetic, affective, economic, and material hopes of many communities in a climate of uncertainty and risk. This ecology shaped economic realities that influenced the possible configurations of love and family in the early modern period. And even if peasant women’s hopes were realized in an expression of rain, perhaps they had already been dashed by precarity as men traveled far and wide for military and seasonal employment in the months preceding the monsoon. The wait for the monsoon reduces all animate actors—human and non-human—to their base primal desires which alongside represents the soul’s thirst to unite with God. Beings in all the kingdoms of nature (*mawālid-i s̤alās̤a*)—animal, vegetable, and mineral—are parched for love and sustenance. The image renders the grief of the *virahinī* in the dark sky, and snake-like lightning-struck clouds with a poisonous downpour. While the peacocks sit below the sky seemingly unperturbed, a halo-rimmed Krishna approaches the *gopīs*. In contrast to the menacing grief of the sky, and the playful distance of Krishna and the *gopīs*, the canals are overrun and replenished. The earth rejoices while the lovelorn Radha grieves inside giving us a glimpse of her emotions through the crackling sky. The betrayal of the monsoon does not wash away the pain of separation for the virahinī. In fact, the replenishment of the parched terrain shows the powerful place the rain clouds occupy in both peasant and elite imagination. 
 
 
-[figure 2](/assets/sabri2.jpg)
+![figure 2](/assets/sabri2.jpg)
 
 
 The temporal logics of the *bārahmāsā* routed through mystical poetry became absorbed in Hazārī’s astronomical treatises. In *Aḵẖtar-i Hazārī* (Hazārī’s Stars), Hazārī offers an emblematic way of syncing seasons and in the process making meaning of cosmic time and environmental rhythms. Hazārī conceived seasons as Persian units and months in Indic sub-units.  The months of *Kātik* and *Mārgarha* fall under *Faṣl-i Ḵẖarīf* (Autumn), *Pohi* and *Chet* under *Faṣl-i Shitā* (Winter), *Vaiśākh*, *Jeṭh* and *Har* under *Faṣl-i Rabīʻ* (Spring) and *Sāwan*, *Bhādoṅ*, *Asāṛh* under *Faṣl-i Ṣaif* (Summer). Especially, noteworthy is that Hazārī depicts monsoon (*Sāwan*) as a feature of the second season—summer (*Faṣl-i Ṣaif*)—in an astronomical chart correlating the annual position of constellations with seasons. The monsoon as a distinctive feature of the Indian environment—noted by the earliest Mughals—was not a stable temporal unit even as it captured inhabitants’ imaginations as a season of renewal following drought as noted earlier. 
 
 
-[figure 3](/assets/sabri3.jpg)
+![figure 3](/assets/sabri3.jpg)
 
 
 The ephemerally linked emotional world of elite and non-elite manifested in a material idiom to a lesser but notable degree in monsoon-inspired architecture. Pictured above, *Badal Mahal* (The Palace of Clouds) was built by Udai Singh II, the Rana of Mewar, as an extension to the medieval Kumbalgarh fort in Rajasthan. This was also referred to as the *Zenāna Mahal* (The Women’s Palace). Implications of divinely ordained sovereignty in the heavenly motifs of Islamic architecture have received considerable attention by Mughal historians. A palace built for women with sky and cloud motifs deserves similar attention for its social and environmental symbolism. While constructed for Rajput noblewomen, there is historical evidence that in the harem the emotional and social worlds of elite and non-elite women were intertwined. These handmaids would sing folk songs at the change of seasons (*bārahmāsā*), birth of children and religious festivals.  
