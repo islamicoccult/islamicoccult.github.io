@@ -30,17 +30,29 @@ In the *bārahmāsā*, *Sāwan*—the monsoon season—represents a cycle of ren
 
 
 > *In the month of Sāwan a stream runs from the eyes*
+
 > *It doesn’t stop for even a day*
+
 > *The land’s potholes and wells have been filled with rain*
+
 > *The land is wearing a new, precious dress*
+
 > *The kohl of the eyes does not stay*
+
 > *The mīnā weeps on the hour (ghaṛī ghaṛī) and it fades away*
+
 > *In the monsoon the moon elopes with Alork*
+
 > *The entire stream is run by the mīnā’s eyes*
+
 > *The downpour of the eyes is as hail*
+
 > *The thread of the necklace has decayed in this water*
+
 > *The Sāwan which you have bathed in*
+
 > *Is the Sāwan that flowed from the eyes of the mīnā*
+
 > *Oh Creator (sarjan) tell folks that this is mīnā’s ill-fate*
 
 
