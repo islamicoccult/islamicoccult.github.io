@@ -13,8 +13,7 @@ image: sabri1.jpg
 The *bārahmāsā* informed temporal conception for a set of entangled time-tellers. One such example from 17th century Lahore was a cosmopolitan Persianate astronomer by the name of Sher-i Muḥammad Hazārī. Hazārī was a devotee of vernacular mystical poets in Punjab who in turn were the ventriloquist of the anxieties, rationalities and sensibilities of peasant and sailor women. In 1621, Sher-i Muḥammad Hazārī puzzled over interpreting, systematizing, and synchronizing seasonal time across three cosmological systems—Indic, Persian and Arabic. His conundrum emanated from the absence of a stable or singular ontological category of seasons in pre-colonial India—organically fluctuating between four, six and twelve.  In a cosmomorphic verse Hazārī sketched an evocative relational image of these three seasonal frames: 
 
 
-> *When the Sun is in Sarat̤ān (Cancer) it is the month of Sāwan*
-
+> *When the Sun is in Sarat̤ān (Cancer) it is the month of Sāwan*\
 > *Know that Leo in Murdād’s means the month of Bahādarūn*
 
 
