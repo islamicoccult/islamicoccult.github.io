@@ -87,4 +87,4 @@ Figure 2. Hazārī’s Seasonal Synchronization in *Aḵẖtar-i Hazārī*.
 
 Figure 3. The Palace of Clouds or *Zenana Mahal* in Kumbalgarh Fort, Rajasthan.
 
-Figure 4. Garden (*chahārbāgh*) of the *Zenana Mahal*.
+Figure 4. View of the garden (*chahārbāgh*) of the *Zenana Mahal*.
