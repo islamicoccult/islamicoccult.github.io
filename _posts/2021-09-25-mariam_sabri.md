@@ -62,6 +62,8 @@ The temporal logics of the *bārahmāsā* routed through mystical poetry became 
 ![figure 3](/assets/sabri3.jpg)
 
 
+![figure 4](/assets/sabri4.jpg)
+
 
 The ephemerally linked emotional world of elite and non-elite manifested in a material idiom to a lesser but notable degree in monsoon-inspired architecture. Pictured above, *Badal Mahal* (The Palace of Clouds) was built by Udai Singh II, the Rana of Mewar, as an extension to the medieval Kumbalgarh fort in Rajasthan. This was also referred to as the *Zenāna Mahal* (The Women’s Palace). Implications of divinely ordained sovereignty in the heavenly motifs of Islamic architecture have received considerable attention by Mughal historians. A palace built for women with sky and cloud motifs deserves similar attention for its social and environmental symbolism. While constructed for Rajput noblewomen, there is historical evidence that in the harem the emotional and social worlds of elite and non-elite women were intertwined. These handmaids would sing folk songs at the change of seasons (*bārahmāsā*), birth of children and religious festivals.  
 
@@ -84,3 +86,5 @@ Figure 1. *Bārahmāsā*: *Śravaṇā* with Inscription. circa 1800. Gouache Pa
 Figure 2. Hazārī’s Seasonal Synchronization in *Aḵẖtar-i Hazārī*.
 
 Figure 3. The Palace of Clouds or *Zenana Mahal* in Kumbalgarh Fort, Rajasthan.
+
+Figure 4. Garden (*chahārbāgh*) of the *Zenana Mahal*.
