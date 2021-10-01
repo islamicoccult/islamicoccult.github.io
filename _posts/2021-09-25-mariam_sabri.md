@@ -78,6 +78,7 @@ A close assessment of the *bārahmāsā* reveals that the anxieties, sensibiliti
 
 Mariam Sabri is a doctoral candidate in History with a Designated Emphasis in Science and Technology Studies. Their research specialties traverse the history of science, technology and the environment in South Asia and the littoral Indian Ocean world from 1500-2000 CE. Their dissertation contends that astronomy was the bedrock of early modern sovereignty in South Asia, enabling control of multiple temporalities, crafting narratives of cosmic truth, and configuring conceptions of the environment. Sabri’s dissertation research is supported by the Social Science Research Council, the National Science Foundation, and the Fulbright Commission. Sabri is a recent recipient of UC Berkeley’s Outstanding Graduate Student Instructor Award.
 
+Copyright Mariam Sabri, 2021.
 
 ### Images
 
