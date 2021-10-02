@@ -98,5 +98,21 @@ Domenico Ingenito, Assistant Professor, *UCLA*
 
 ***
 
-### Details of the October, November, and December meetings are TBD.
+## Friday, October 22, 2021
+
+### Panel 1: Occult Shiʿism
+
+Amina Inloes, Lecturer, *The Islamic College, London*
+
+Amin Mansouri, PhD Candidate, *University of Toronto*
+
+### Panel 2: Jinnology and Astrology
+
+Ana Vinea, Assistant Professor, *University of North Carolina*
+
+Fien De Block, Independent Scholar, *Ghent, Belgium*
+
+***
+
+### Details of the November and December meetings are TBD.
 
