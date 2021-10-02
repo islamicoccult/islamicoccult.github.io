@@ -41,7 +41,7 @@ The question that remains, then, is how will scholars of medieval Islamic alchem
 
 
 ### Author Bio
-Samantha Pellegrino is a PhD candidate in Islamic Studies at the University of Chicago. Her research interests include the Jābirian corpus, the history and historiography of Islamic alchemy, ectogenesis, and imaginations of gender (in both medieval Islamic alchemical texts and also in medieval Islamicate literature as it is mediated through the categories of the occult, the supernatural, and the magical). Her dissertation explores how the artificial is theorized in Jābirian texts, particularly in relation to the divine, and engages new methodological tools to de-center historicity as the primary metric by which Jābirian writings are engaged. More information can be found at her [website](www.samanthapellegrino.com).
+Samantha Pellegrino is a PhD candidate in Islamic Studies at the University of Chicago. Her research interests include the Jābirian corpus, the history and historiography of Islamic alchemy, ectogenesis, and imaginations of gender (in both medieval Islamic alchemical texts and also in medieval Islamicate literature as it is mediated through the categories of the occult, the supernatural, and the magical). Her dissertation explores how the artificial is theorized in Jābirian texts, particularly in relation to the divine, and engages new methodological tools to de-center historicity as the primary metric by which Jābirian writings are engaged. More information can be found at her [website](https://www.samanthapellegrino.com).
 
 Copyright Samantha Pellegrino, 2021.
 
