@@ -4,7 +4,7 @@ title: Workshop Schedule
 permalink: /schedule
 ---
 
-The currents rounds of the workshop will run through December 2021. The complete schedule is below. Stay tuned for news on future rounds of meetings.
+The current round of workshops will run through December 2021. The complete schedule is below. Stay tuned for news on future rounds of meetings.
 
 ## Friday, March 26, 2021
 
