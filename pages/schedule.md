@@ -4,7 +4,7 @@ title: Workshop Schedule
 permalink: /schedule
 ---
 
-The workshop will run through December 2021. The schedule is assembled on a rolling basis, and we’re always happy to hear suggestions for panels or individual contributions. The full schedule is as follows:
+The currents rounds of the workshop will run through December 2021. The complete schedule is below. Stay tuned for news on future rounds of meetings.
 
 ## Friday, March 26, 2021
 
@@ -114,5 +114,32 @@ Fien De Block, Independent Scholar, *Ghent, Belgium*
 
 ***
 
-### Details of the November and December meetings are TBD.
+## Friday, 12 November
 
+### Panel 1: Maghribi Magic
+
+Veronica Menaldi, Assistant Professor, *University of Mississippi*
+
+José Bellver, Research Fellow, *University of Louvain*
+
+### Panel 2: Occult Reformism
+
+Daniel Morgan, Assistant Professor, *Santa Clara University*
+
+Anuj Kaushal, PhD Candidate, *University of Texas at Austin*
+
+***
+
+## Friday, 10 December
+
+### Panel 1: Lettrism and Kabbalah
+
+Elizabeth Sartell, Assistant Professor, *Lewis University*
+
+Beatrice Bottomley, PhD Candidate, *The Warburg Institute*
+
+### Panel 2: Talismanry and Geomancy
+
+Arianna Dalla Costa, PhD Candidate, *The Warburg Institute*
+
+Rao Mohsin Ali Noor, PhD Candidate, *University of Chicago*
