@@ -12,7 +12,7 @@ The current round of workshops will run through December 2021. The complete sche
 
 Margaret Gaida, Postdoctoral Fellow, *California Institute of Technology*
 
-### Panel 2: Theology and Occultism
+### Panel 2: Theology & Occultism
 
 Michael Noble, Postdoctoral Fellow, *University of Munich*
 
@@ -90,7 +90,7 @@ Blanca Villuendas, Postdoctoral Fellow, *University of Oxford*
 
 Deji Ogunnaike, Assistant Professor, *Bowdoin College*
 
-### Panel 2: Poetry and the Unseen
+### Panel 2: Poetry & the Unseen
 
 Jane Mikkelson, Postdoctoral Fellow, *University of Virginia*
 
@@ -100,13 +100,13 @@ Domenico Ingenito, Assistant Professor, *UCLA*
 
 ## Friday, October 22, 2021
 
-### Panel 1: Occult Shiʿism
+### Panel 1: Occult Shiʿism & Illuminationism
 
-Amina Inloes, Lecturer, *The Islamic College, London*
+Łukasz Piątak, Assistant Professor, *Adam Mickiewicz University*
 
 Amin Mansouri, PhD Candidate, *University of Toronto*
 
-### Panel 2: Jinnology and Astrology
+### Panel 2: Jinnology & Astrology
 
 Ana Vinea, Assistant Professor, *University of North Carolina*
 
@@ -132,13 +132,13 @@ Anuj Kaushal, PhD Candidate, *University of Texas at Austin*
 
 ## Friday, 10 December
 
-### Panel 1: Lettrism and Kabbalah
+### Panel 1: Lettrism & Kabbalah
 
 Elizabeth Sartell, Assistant Professor, *Lewis University*
 
 Beatrice Bottomley, PhD Candidate, *The Warburg Institute*
 
-### Panel 2: Talismanry and Geomancy
+### Panel 2: Talismanry & Geomancy
 
 Arianna Dalla Costa, PhD Candidate, *The Warburg Institute*
 
