@@ -13,14 +13,14 @@ Welcome to the website of Islamic Occult Studies on the Rise, an online internat
 
 The schedule for the next meeting is as follows:
 
-### Panel 1: Occult Shiʿism
+### Panel 1: Occult Shiʿism & Illuminationism
 
-Amina Inloes, Lecturer, *The Islamic College, London*
+Łukasz Piątak, Assistant Professor, *Adam Mickiewicz University*
 
 Amin Mansouri, PhD Candidate, *University of Toronto*
 
 
-### Panel 2: Jinnology and Astrology
+### Panel 2: Jinnology & Astrology
 
 Ana Vinea, Assistant Professor, *University of North Carolina*
 
