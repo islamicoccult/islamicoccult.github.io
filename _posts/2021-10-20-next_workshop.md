@@ -9,22 +9,22 @@ image: hamsah-1.jpg
 
 Welcome to the website of Islamic Occult Studies on the Rise, an online international workshop on the Islamic occult sciences and related matters. Below is information on the upcoming meeting. Click Schedule in the menu above for the complete list of panels.
 
-## Next meeting: Friday, October 22, 2021
+## Next meeting: Friday, November 12, 2021
 
 The schedule for the next meeting is as follows:
 
-### Panel 1: Occult Shiʿism & Illuminationism
+### Panel 1: Maghribi Magic
 
-Łukasz Piątak, Assistant Professor, *Adam Mickiewicz University*
+Veronica Menaldi, Assistant Professor, *University of Mississippi*
 
-Amin Mansouri, PhD Candidate, *University of Toronto*
+José Bellver, Research Fellow, *University of Louvain*
 
 
-### Panel 2: Jinnology & Astrology
+### Panel 2: Occult Reformism
 
-Ana Vinea, Assistant Professor, *University of North Carolina*
+Daniel Morgan, Assistant Professor, *Santa Clara University*
 
-Fien De Block, Postdoctoral Fellow, *Ghent University*
+Anuj Kaushal, PhD Candidate, *University of Texas at Austin*
 
 
 ### Happy Hour! 1pm til...
