@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Islamic Occult Studies on the Rise: Next Workshop, October 22"
+title: "Islamic Occult Studies on the Rise: Next Workshop, November 12"
 author: Matthew Melvin-Koushki and Noah Gardiner
 categories: schedule
 tags: [schedule,contributions]
