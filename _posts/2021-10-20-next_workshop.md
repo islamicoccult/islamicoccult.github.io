@@ -24,7 +24,7 @@ Amin Mansouri, PhD Candidate, *University of Toronto*
 
 Ana Vinea, Assistant Professor, *University of North Carolina*
 
-Fien De Block, Independent Scholar, *Ghent, Belgium*
+Fien De Block, Postdoctoral Fellow, *Ghent University*
 
 
 ### Happy Hour! 1pm til...
