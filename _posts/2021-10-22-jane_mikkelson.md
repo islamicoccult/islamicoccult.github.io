@@ -14,7 +14,7 @@ In a couplet by Nasir ‘Ali (d.1697), a Persian poet from Sirhind in northern I
 
 
 > I, Nasir ‘Ali, am light of spirit.\
->     You do not know\
+> >> You do not know\
 >     the worth of wings:\
 > I can travel, soaring\
 >     through that other world\
@@ -60,24 +60,6 @@ At a literal level, color is one of the most basic attributes of items in the wo
 
 Copyright Jane Mikkelson, 2021.
 
-***
-
-Image: Detail from *A Night Scene from Shiva Puja,* ca. 1760 (The Cleveland Museum of Art).
-
-[^1]: *Sabukruham ‘ali qadr-i par-u-balam namidani / tavanam az shikast-i rang sayr-i anjahan kardan*. Nasir ‘Ali Sirhindi, *Divan-i Nasir ‘Ali* (Kanpur: Munshi Naval Kishor), 91.
-
-[^2]: *Kahkashan didi shikast-i rang ham fahmidanist / bikhudan dar laghzish-i pa sayr-i gardun karda-and.* Bedil Dihlavi, *Kulliyyat* (Tehran: Intisharat-i Talaya), 2010/2011, Ia:720-721.
-
-[^3]: *Chu mah-i nau bi yik bal asiman sayr-ast parvazam.* Ibid, Ib:1042.
-
-[^4]: “*…dar hama ja ast va hich ja az u khali nist.*” Prince Muhammad Dara Shikoh, *Sirr-i akbar: Upanishad* [*The Greatest Secret: the Upanishads*], ed. Tara Chand and S.M. Reza Jalali Naini (Tehran: Taban Press), 1957, 42.
-
-[^5]: “*An hast [yigana va bi-hamta] khvast ki man bisyar shavam, surat-ha-yi gunagun shud.*” Ibid, 134.
-
-[^6]: Prince Muhammad Dara Shikoh, *Majma’ al-bahrayn* [*The Confluence of the Two Oceans*], ed. M. Mahfuz-ul-Haq (Calcutta: The Asiatic Society, 1998 (1929)), 100-101.
-
-
-[^7]: *Sayr kun ta chi rang darad nur.* Bedil, *Kulliyyat* III:58.
 
 ***
 
@@ -100,7 +82,23 @@ Paul E. Losensky. *Welcoming Fighani: Imitation and Poetic Individuality in the 
 
 Stefano Pello. “The Portrait and Its Doubles: Nasir ‘Ali Sirhindi, Mirza Bidil and the Comparative Semiotics of Portraiture in Late Seventeenth-Century Indo-Persian Literature.” *Eurasian Studies* 15.1 (2017), 1-35.
 
+***
 
+Image: Detail from *A Night Scene from Shiva Puja,* ca. 1760 (The Cleveland Museum of Art).
+
+[^1]: *Sabukruham ‘ali qadr-i par-u-balam namidani / tavanam az shikast-i rang sayr-i anjahan kardan*. Nasir ‘Ali Sirhindi, *Divan-i Nasir ‘Ali* (Kanpur: Munshi Naval Kishor), 91.
+
+[^2]: *Kahkashan didi shikast-i rang ham fahmidanist / bikhudan dar laghzish-i pa sayr-i gardun karda-and.* Bedil Dihlavi, *Kulliyyat* (Tehran: Intisharat-i Talaya), 2010/2011, Ia:720-721.
+
+[^3]: *Chu mah-i nau bi yik bal asiman sayr-ast parvazam.* Ibid, Ib:1042.
+
+[^4]: “*…dar hama ja ast va hich ja az u khali nist.*” Prince Muhammad Dara Shikoh, *Sirr-i akbar: Upanishad* [*The Greatest Secret: the Upanishads*], ed. Tara Chand and S.M. Reza Jalali Naini (Tehran: Taban Press), 1957, 42.
+
+[^5]: “*An hast [yigana va bi-hamta] khvast ki man bisyar shavam, surat-ha-yi gunagun shud.*” Ibid, 134.
+
+[^6]: Prince Muhammad Dara Shikoh, *Majma’ al-bahrayn* [*The Confluence of the Two Oceans*], ed. M. Mahfuz-ul-Haq (Calcutta: The Asiatic Society, 1998 (1929)), 100-101.
+
+[^7]: *Sayr kun ta chi rang darad nur.* Bedil, *Kulliyyat* III:58.
 
 
 
