@@ -38,6 +38,7 @@ Grafting the organizational structure and symbols of Islamic geomancy would have
 
 [Ayodeji Ogunnaike’s](https://www.bowdoin.edu/profiles/faculty/aogunnai/index.html) research focusses mostly on Yoruba oriṣa worship in Nigeria, but also addresses Islam in Africa, Christianity in Africa, and diaspora religions—Brazilian Candomblé in particular. Having studied Ifa divination with a high priest and diviner in Nigeria, he has a keen interest in indigenous African intellectual traditions and ways of knowing. His current book project, How Worship Becomes Religion, analyzes how the worship of traditional Yoruba deities originally differed greatly from Western notions of “religion” but eventually became the most widespread and celebrated indigenous African religion through contact with modernity and mission Christianity. He is also currently working on a children’s book of Yoruba mythology with his brothers Oludamini and Olumakinde and has been developing and curating an online library of Ifa orature.
 
+Copyright Ayodeju Ogunnaike, 2021.
 
 ***
 
