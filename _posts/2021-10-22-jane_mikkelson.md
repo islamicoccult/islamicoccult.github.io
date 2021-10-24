@@ -32,17 +32,17 @@ Fascination with the fracture or absence of color often leads poets to dwell on 
 > &emsp; &emsp; can be comprehended\
 > Those who have no self\
 > &emsp; &emsp; can cross the turning skies\
-> &emsp; &emsp; exploring them\ 
+> &emsp; &emsp; exploring them\
 > &emsp; &emsp; with pale slipping steps [^2]		
 
 
 Or take this hemistich, also by Bidel, which traces the impossible one-winged flight of a new moon:
 
 
-> My flight\ 
+> My flight\
 > &emsp; &emsp; encompasses the sky\
-> &emsp; &emsp; like a new moon\ 
-> &emsp; &emsp; flying\ 
+> &emsp; &emsp; like a new moon\
+> &emsp; &emsp; flying\
 > &emsp; &emsp; on a single wing [^3]
 
 
