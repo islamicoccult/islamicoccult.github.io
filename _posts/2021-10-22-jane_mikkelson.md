@@ -14,11 +14,11 @@ In a couplet by Nasir ‘Ali (d.1697), a Persian poet from Sirhind in northern I
 
 
 > I, Nasir ‘Ali, am light of spirit.\
-> &nbsp; &nbsp; You do not know\
-> &nbsp; &nbsp; the worth of wings:\
+> &emsp; &emsp; You do not know\
+> &emsp; &emsp; the worth of wings:\
 > I can travel, soaring\
-> &nbsp; &nbsp; through that other world\
-> &nbsp; &nbsp; with color’s fracture.[^1]
+> &emsp; &emsp; through that other world\
+> &emsp; &emsp; with color’s fracture.[^1]
 
 
 Declaring himself to be an unencumbered soul, Nasir ʿAli praises his own ability to “travel” through “that other world” (*sayr-i anjahan*). What enables his flight is “color’s fracture.” But what exactly does it mean for color to break? How can someone travel to another world through color’s fracture—and why would they want to in the first place? Although this phrase is not attested in modern dictionaries, *shikast-i rang* (“the fracture of color”) occurs frequently in early modern Persian poetry. Emerging likely at some point during the sixteenth century, it gained traction especially among seventeenth-century poets associated with India (‘Urfi, Qudsi, Salim, Hazin, Sa’ib, Nasir ‘Ali, Bedil, Arzu, and others). While earlier poets use a version of this phrase to linger elegiacally over discrete biographical moments of past loss—moments when “color broke” (*shikast rang*)—the phrase “color’s fracture” (*shikast-i rang*) pivots towards more positive forms of fugitive experience, where the fact of having faded, or vanished, or broken allows readers to see an unseen world. 
@@ -28,22 +28,22 @@ Fascination with the fracture or absence of color often leads poets to dwell on 
 
 
 > You saw the Milky Way\
->     even color’s fracture\
->     can be comprehended\
+> &emsp; &emsp; even color’s fracture\
+> &emsp; &emsp; can be comprehended\
 > Those who have no self\
->     can cross the turning skies\
->     exploring them\ 
->     with pale slipping steps[^2]		
+> &emsp; &emsp; can cross the turning skies\
+> &emsp; &emsp; exploring them\ 
+> &emsp; &emsp; with pale slipping steps [^2]		
 
 
 Or take this hemistich, also by Bidel, which traces the impossible one-winged flight of a new moon:
 
 
 > My flight\ 
->     encompasses the sky\
->     like a new moon\ 
->     flying\ 
->     on a single wing[^3]
+> &emsp; &emsp; encompasses the sky\
+> &emsp; &emsp; like a new moon\ 
+> &emsp; &emsp; flying\ 
+> &emsp; &emsp; on a single wing[^3]
 
 
 Why were these poets were drawn to color’s fracture? When encountering images like this, it is often necessary hunt for meaning beyond the local context of a poem. Early modern works of comparative religion are especially illuminating; in treatises and translations, scholars draw upon ideas from different traditions—such as Islam and Hinduism—as they make creative attempts to work out a practical philosophy of perception with cross-confessional appeal. For instance, Dara Shikoh (d.1659), the Mughal scholar-prince whose projects of comparative religion were profoundly influential in early modern South Asia, writes in his Persian translation of the Upanisads that the world-soul (*atma*) pervades all appearances (*surat-ha*), being “in every place, such that no place is empty of it.”[^4]  Even though this fundamental substance is singular, “because of *maya* [illusion],” it appears in many forms; these forms are so multitudinous that their number is beyond reckoning. Only capable persons like gnostics (*‘arifan*) and monotheists (*muvahhidan*) are able to “escape from the illusory prison of the body” and arrive at an understanding of this underlying world-soul, which Dara Shikoh describes in Sufi-Islamic vocabulary as “the light of the essence” (*‘ayn-i nur-i zat*). Another passage in Dara Shikoh’s Persian Upanisads explains how this divine light passes from oneness into multiplicity: after experiencing a desire “to become more,” this light takes on “many different forms” by generating the elements (fire, water, earth), which mix to make everything we see in the world. These three fundamental elements are associated with three primary colors: fire with redness, water with whiteness, earth with blackness.[^5] In another work by Dara Shikoh, *The Confluence of the Two Oceans*, a remarkable treatise in which he attempts to align the core doctrines of Islam and Hinduism, color and colorlessness appear in a chapter on prophethood. He identifies three kinds of prophets: those who see God with their own eyes, like Noah; others, like Moses, who hear God’s voice; and finally, prophets like Muhammad, who both hear and see divine truth. Muhammad’s prophethood combines the resources of both senses, and Dara Shikoh writes that Muhammad’s form of prophethood is superior because it embraces both “color” and “colorlessness” (*rang* and *birangi*).[^6]
