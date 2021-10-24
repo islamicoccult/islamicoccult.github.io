@@ -13,11 +13,11 @@ image: mikkelson.jpg
 In a couplet by Nasir ‘Ali (d.1697), a Persian poet from Sirhind in northern India, readers are shown what it can be like to escape from the phenomenal world of color and experience something typically veiled from view—a colorless realm of reality that lies beyond matter, beyond time: 
 
 
-> I, Nasir ‘Ali, am light of spirit.
->     You do not know
->     the worth of wings:
-> I can travel, soaring
->     through that other world
+> I, Nasir ‘Ali, am light of spirit.\
+>     You do not know\
+>     the worth of wings:\
+> I can travel, soaring\
+>     through that other world\
 >     with color’s fracture.[^1]
 
 
@@ -27,22 +27,22 @@ Declaring himself to be an unencumbered soul, Nasir ʿAli praises his own abilit
 Fascination with the fracture or absence of color often leads poets to dwell on the pallor of celestial events: the blank white page of dawn, the Milky Way, a ghostly new moon. These suggestively pale phenomena communicate something worth understanding, as in the following couplet by the poet and philosopher Bedil of Delhi (d.1721):
 
 
-> You saw the Milky Way
->     even color’s fracture 
->     can be comprehended
-> Those who have no self
->     can cross the turning skies
->     exploring them 
+> You saw the Milky Way\
+>     even color’s fracture\
+>     can be comprehended\
+> Those who have no self\
+>     can cross the turning skies\
+>     exploring them\ 
 >     with pale slipping steps[^2]		
 
 
 Or take this hemistich, also by Bidel, which traces the impossible one-winged flight of a new moon:
 
 
-> My flight 
->     encompasses the sky 
->     like a new moon 
->     flying 
+> My flight\ 
+>     encompasses the sky\
+>     like a new moon\ 
+>     flying\ 
 >     on a single wing[^3]
 
 
@@ -64,20 +64,20 @@ Copyright Jane Mikkelson, 2021.
 
 Image: Detail from *A Night Scene from Shiva Puja,* ca. 1760 (The Cleveland Museum of Art).
 
-[^1] *Sabukruham ‘ali qadr-i par-u-balam namidani / tavanam az shikast-i rang sayr-i anjahan kardan*. Nasir ‘Ali Sirhindi, *Divan-i Nasir ‘Ali* (Kanpur: Munshi Naval Kishor), 91.
+[^1]: *Sabukruham ‘ali qadr-i par-u-balam namidani / tavanam az shikast-i rang sayr-i anjahan kardan*. Nasir ‘Ali Sirhindi, *Divan-i Nasir ‘Ali* (Kanpur: Munshi Naval Kishor), 91.
 
-[^2] *Kahkashan didi shikast-i rang ham fahmidanist / bikhudan dar laghzish-i pa sayr-i gardun karda-and.* Bedil Dihlavi, *Kulliyyat* (Tehran: Intisharat-i Talaya), 2010/2011, Ia:720-721.
+[^2]: *Kahkashan didi shikast-i rang ham fahmidanist / bikhudan dar laghzish-i pa sayr-i gardun karda-and.* Bedil Dihlavi, *Kulliyyat* (Tehran: Intisharat-i Talaya), 2010/2011, Ia:720-721.
 
-[^3] *Chu mah-i nau bi yik bal asiman sayr-ast parvazam.* Ibid, Ib:1042.
+[^3]: *Chu mah-i nau bi yik bal asiman sayr-ast parvazam.* Ibid, Ib:1042.
 
-[^4] “*…dar hama ja ast va hich ja az u khali nist.*” Prince Muhammad Dara Shikoh, *Sirr-i akbar: Upanishad* [*The Greatest Secret: the Upanishads*], ed. Tara Chand and S.M. Reza Jalali Naini (Tehran: Taban Press), 1957, 42.
+[^4]: “*…dar hama ja ast va hich ja az u khali nist.*” Prince Muhammad Dara Shikoh, *Sirr-i akbar: Upanishad* [*The Greatest Secret: the Upanishads*], ed. Tara Chand and S.M. Reza Jalali Naini (Tehran: Taban Press), 1957, 42.
 
-[^5] “*An hast [yigana va bi-hamta] khvast ki man bisyar shavam, surat-ha-yi gunagun shud.*” Ibid, 134.
+[^5]: “*An hast [yigana va bi-hamta] khvast ki man bisyar shavam, surat-ha-yi gunagun shud.*” Ibid, 134.
 
-[^6] Prince Muhammad Dara Shikoh, *Majma’ al-bahrayn* [*The Confluence of the Two Oceans*], ed. M. Mahfuz-ul-Haq (Calcutta: The Asiatic Society, 1998 (1929)), 100-101.
+[^6]: Prince Muhammad Dara Shikoh, *Majma’ al-bahrayn* [*The Confluence of the Two Oceans*], ed. M. Mahfuz-ul-Haq (Calcutta: The Asiatic Society, 1998 (1929)), 100-101.
 
 
-[^7] *Sayr kun ta chi rang darad nur.* Bedil, *Kulliyyat* III:58.
+[^7]: *Sayr kun ta chi rang darad nur.* Bedil, *Kulliyyat* III:58.
 
 ***
 
