@@ -14,11 +14,11 @@ In a couplet by Nasir ‘Ali (d.1697), a Persian poet from Sirhind in northern I
 
 
 > I, Nasir ‘Ali, am light of spirit.\
-> >> You do not know\
->     the worth of wings:\
+> &nbsp; &nbsp; You do not know\
+> &nbsp; &nbsp; the worth of wings:\
 > I can travel, soaring\
->     through that other world\
->     with color’s fracture.[^1]
+> &nbsp; &nbsp; through that other world\
+> &nbsp; &nbsp; with color’s fracture.[^1]
 
 
 Declaring himself to be an unencumbered soul, Nasir ʿAli praises his own ability to “travel” through “that other world” (*sayr-i anjahan*). What enables his flight is “color’s fracture.” But what exactly does it mean for color to break? How can someone travel to another world through color’s fracture—and why would they want to in the first place? Although this phrase is not attested in modern dictionaries, *shikast-i rang* (“the fracture of color”) occurs frequently in early modern Persian poetry. Emerging likely at some point during the sixteenth century, it gained traction especially among seventeenth-century poets associated with India (‘Urfi, Qudsi, Salim, Hazin, Sa’ib, Nasir ‘Ali, Bedil, Arzu, and others). While earlier poets use a version of this phrase to linger elegiacally over discrete biographical moments of past loss—moments when “color broke” (*shikast rang*)—the phrase “color’s fracture” (*shikast-i rang*) pivots towards more positive forms of fugitive experience, where the fact of having faded, or vanished, or broken allows readers to see an unseen world. 
