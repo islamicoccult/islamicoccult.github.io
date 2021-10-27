@@ -14,7 +14,7 @@ The most obvious historical context for assessing Āmulī and his work is to be 
 
 
 
-### Tawḥīd and Cosmology
+### **Tawḥīd and Cosmology**
 
 Āmulī was a systematic thinker whose entire worldview is constructed around the axial concept of (*tawḥīd*). In *Jāmiʿ al-asrār* he describes the “virtues” (*faḍāʾil*) of *tawḥīd* as follows:
 
