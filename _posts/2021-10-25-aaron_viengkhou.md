@@ -14,7 +14,7 @@ The most obvious historical context for assessing Āmulī and his work is to be 
 
 
 
-## Tawḥīd and Cosmology
+### Tawḥīd and Cosmology
 
 Āmulī was a systematic thinker whose entire worldview is constructed around the axial concept of (*tawḥīd*). In *Jāmiʿ al-asrār* he describes the “virtues” (*faḍāʾil*) of *tawḥīd* as follows:
 
@@ -80,7 +80,7 @@ The diagram in Figure 4 once again represents the emergence of multiplicity from
 
 
 
-## The Three Great Books
+### The Three Great Books
 
 In addition to showing how all the letters emerge from the letter *alif* and all the numbers emerge from the number 1, the diagram in Figure 4 is constructed so as to illuminate how the *tawḥīd* of numbers and letters “proceeds according to the correspondence (*taṭbīq*) of the worlds.” The diagram thus functions as a circular table of correspondences correlating the twenty-eight letters of the Arabic alphabet, numbers (1-9, 10-90, 100-900, 1000), and various features of the created universe—1:A:divine pen (*al-qalam*):human being (*al-insān*), 2:B:heavenly tablet (*al-lawḥ*):intellect (*al-ʿaql*), 3:J:dust cloud (*al-habāʾ*):soul (*al-nafs*), 4:D:nature (*al-ṭabīya*):roaming spirits (*al-muhayyama*), and so on.
 
@@ -104,7 +104,7 @@ In *al-Muḥīṭ al-aʿẓam*, Āmulī develops the correspondences between the
 
 
 
-## Conclusion: Diagramming Correspondences
+### Conclusion: Diagramming Correspondences
 
 Āmulī’s theory of correspondences follows from his theory of *tawḥīd*—every domain of reality (including number, language, the world, the human being) enacts the same process whereby multiplicity emerges out of oneness as an act of God’s self-disclosure, and, as a result, the domains of reality correspond with one another. Earlier in this blog post I introduced Āmulī’s theory of *tawḥīd* through an examination of four of the diagrams included in the *muqaddima* to *Naṣṣ al-nuṣūṣ*. These diagrams all exhibit a remarkable structural similarity. In fact, most of the other diagrams in *Naṣṣ al-nuṣūṣ*, as well as all the diagrams in *al-Muḥīṭ al-aʿẓam*, are modelled on the same basic circular pattern. In *Naṣṣ al-nuṣūṣ*, Āmulī explains his reasoning for constructing the diagrams as follows:
 
@@ -138,7 +138,7 @@ As for the Book of Souls, it also is composed in accordance with the number 19, 
 In *Naṣṣ al-nuṣūṣ* and elsewhere, Āmulī goes on to articulate a considerably more complex exegesis of the nineteen letters of the *basmala* as they are encoded within the Book of Horizons and the Book of Souls.[^20] He also produces other diagrams that visualize the manifestations of the number 19 in the cosmic and human domains from different perspectives. It is hoped, however, that this short analysis of the diagrams in Figures 5 and 6 will have sufficiently introduced the reader to Āmulī’s theory of correspondences and its application as a universal hermeneutic addressed to a scripturalized reality.
 
 
-## Author Bio
+### Author Bio
 
 Aaron Viengkhou is a PhD candidate in the Department of Near Eastern Languages and Civilizations at Harvard University. He is currently engaged in researching and writing a dissertation tentatively titled “(Con)tested Belief: Ḥaydar Āmulī’s Synthetic Intervention in the Shīʿī and Ṣūfī Traditions.” The project is, of course, concerned with arriving at a better understanding of the life and thought of Ḥaydar Āmulī (d. after 782/1380), a crucial figure in the history of Shīʿī-Ṣūfī engagement. In doing so, however, Aaron is specifically interested in delineating the contours of 14th century Ṣūfism and Shīʿism, and determining the ways in which Āmulī attempted to both assimilate and disrupt the two traditions so as to arrive at a synthesis. More generally, Aaron’s research interests are directed towards mapping the tangled web of intersections and tensions between various discursive fields (especially philosophy, theology, esotericism, and occultism) in the intellectual culture of the premodern Islamicate world.
 
