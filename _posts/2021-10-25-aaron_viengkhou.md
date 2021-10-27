@@ -13,7 +13,8 @@ Sayyid Bahāʾ al-Dīn b. ʿAlī Ḥaydar al-Āmulī (d. after 782/1380) is reme
 The most obvious historical context for assessing Āmulī and his work is to be found in the increasingly complex entanglements of the Shīʿī and Ṣūfī traditions in the 14th century. Importantly, however, Shīʿism and Ṣūfism, and the entanglements thereof, were also tangled up with other contemporaneous discourses, not least of which being the occult sciences. As Matthew Melvin-Koushki has amply shown, the post-Mongol period witnessed a steady Neopythagorean turn, closely aligned with Ṣūfī and Shīʿī currents, which, by the 15th century, blossomed into an exaltation of the science of letters (*ʿilm al-ḥurūf*), universal in scope and inextricably bound to knowledge of both God’s oneness (*tawḥīd*) and the arcanum of sanctified authority (*walāya*).[^2] Although Āmulī is silent on the subject of occult disciplines as practicable technologies, his oeuvre nevertheless exhibits many adjacencies with *en vogue* occult discourses, especially those with a Neopythagorean edge, including the science of letters.[^3] This is evident especially in his scripturalization of reality and his hermeneutic methodology.
 
 
-## *Tawḥīd* and Cosmology
+
+## Tawḥīd and Cosmology
 
 Āmulī was a systematic thinker whose entire worldview is constructed around the axial concept of (*tawḥīd*). In *Jāmiʿ al-asrār* he describes the “virtues” (*faḍāʾil*) of *tawḥīd* as follows:
 
@@ -33,15 +34,19 @@ By Āmulī’s time, this kind of ontological monism was widely discussed in ter
 To give a flavor of how Āmulī conceives of ontological *tawḥīd*, I would like to turn now to a consideration of four of the twenty-eight diagrams that accompany the *muqaddima* to *Naṣṣ al-nuṣūṣ*.
 
 
+
 ![MS Carullah 1033, fol. 22v](/assets/viengkhou-2.jpg)
 *Figure 1: MS Carullah 1033, fol. 22v*
+
 
 
 The diagram in Figure 1 occurs quite early in the text and is referred to by Āmulī as “the diagram of *tawḥīd* in the image of the central dot and the circumferential dot, indicative of the oneness of necessary existence and its multiplicity through its manifestation in the forms of contingent existence without any differentiation within its essence and reality.”[^6] The text within the diagram identifies the central dot as “the dot of *tawḥīd*” and explains that it represents absolute existence. The dots along the circumference represent individual existent things. What is most interesting about this diagram is that each of the existents along the circumference is said to be connected to absolute existence in the center by a “straight path” (*ṣirāṭ mustaqīm*). This Qurʾānic imagery is further augmented by the citation of *Hūd*, 56: “There is no walking creature except that He grasps it by its forelock, truly my Lord is on a straight path.” Ibn ʿArabī rather notoriously glossed this verse, saying, “Everything is walking upon the straight path of the Lord; in this sense, wrath is not upon them, nor are they astray.”[^7] Āmulī quickly points out that he is not considering the *ṣirāṭ mustaqīm* in terms of the observance of the *sharīʿa*, thereby distancing himself from the more provocative implications of the great shaykh’s pronouncement. But from an ontological perspective, Āmulī is in full agreement—insofar as existents are manifestations of absolute existence, they ineluctably traverse the paths prescribed for them and all of their paths are equally straight.
 
 
+
 ![MS Carullah 1033, fol. 75v](/assets/viengkhou-3.jpg)
 *Figure 2: MS Carullah 1033, fol. 75v*
+
 
 
 The relationship between absolute existence and individual existents (or between God and the world) is also visualized in another diagram (Figure 2). However, whereas the diagram in Figure 1 depicts ontological *tawḥīd* as a centripetal process whereby individual existents travel the straight path from the periphery towards absolute existence at the center, the diagram in Figure 2 depicts ontological *tawḥīd* as a centrifugal process with absolute existence radiating outwards from the center to the existents on the periphery, like a candle reflecting in the mirrors surrounding it. The text inscribed within the diagram begins:
@@ -50,8 +55,10 @@ The relationship between absolute existence and individual existents (or between
 > Know that the one, real, absolute existence, which is the Real—may He be exalted!—is represented by the candle located in the center, and the contingent existents are represented by the candles and mirrors around it. In one sense, these candles and mirrors have existence, but, in another sense, they do not have existence at all. In the first sense, they have an apparent, real existence that is not concealed. In the second sense, their existence is the reflection in their circle of the candle located in the center, and they have only a relation and connection from [the central candle]. Were it not [for this reflection] they would have no existence at all in actuality…The inclusion of this diagram is only for the sake of verifying this form, that is to say, testifying to the one true existence and testifying to many existences through the mediation of [the true existence]…[^8]
 
 
+
 ![MS Carullah 1033, fol. 76v](/assets/viengkhou-3a.jpg)
 *Figure 3: MS Carullah 1033, fol. 76v*
+
 
 
 The diagram in Figure 3 illustrates ontological *tawḥīd* and the tension between oneness and manyness as an intra-divine phenomenon pertaining to the Divine Names. The diagram consists of four concentric circles: an outer circle populated with the thirty-seven Names of Actions (*asmāʾ al-afʾāl*), followed by a second circle containing the twenty-five Names of Attributes (*asmāʾ al-ṣifāt*), a third circle with the thirty-six Names of Essence (*asmāʾ al-dhāt*), and finally a central circle representing the One Essence (*al-dhāt al-aḥadīya*). Just as the singular absolute existence manifests itself in the multiplicity of individual existents, so is the multiplicity of the Divine Names expressive of an underlying unity. Āmulī thus explains:
@@ -60,14 +67,17 @@ The diagram in Figure 3 illustrates ontological *tawḥīd* and the tension betw
 > In this arrangement is a secret for the elect, for the Essence is like the dot from which the Attributes and then the Acts originate, even though each one of them is identical to the other.[^9]
 
 
+
 ![MS Carullah 1033, fol. 77](/assets/viengkhou-4.jpg)
 *Figure 4: MS Carullah 1033, fol. 77*
+
 
 
 The diagram in Figure 4 once again represents the emergence of multiplicity from oneness, but this time in terms of “the *tawḥīd* of numbers and letters,” which Āmulī associates with both the People of Allāh and Pythagoras the Wise. In explaining the *tawḥīd* of letters, Āmulī writes:
 
 
 > …The concurrence of the Real—may He be exalted!—with the letters of the world—which are His loci of manifestation—is the same as the concurrence of the *alif* with the individual letters that are its loci of manifestation (*maẓāhir*) with no additions or subtractions. That is to say, when the *alif* descends from the presence of its absoluteness and its isolation and appears in the form of a letter, it becomes attributed (*mawṣūf*) with [that letter], whether it be *bāʾ*, *jīm*, *dāl*, etc. Likewise, when the Real—may He be exalted!—descends from the presence of His absoluteness and His isolation and His holiness, and appears in the form of an existent, He becomes attributed with it. Just as every letter is secretly an *alif* through the manifestation of *alif* in its form, so it is likewise with the Real—may He be exalted! Thus, every existent is a real through His manifestation in its form…[^10]
+
 
 
 ## The Three Great Books
@@ -93,6 +103,7 @@ The “letters” of the Book of Horizons are the simple existents (*mufradāt*)
 In *al-Muḥīṭ al-aʿẓam*, Āmulī develops the correspondences between the Three Books—the Book of Horizons, the Book of Souls, and the Qurʾān—into a universal hermeneutic that elucidates his theory of ontological-esoteric *tawḥīd* through the application of Ṣūfī-Neopythagorean exegesis (*taʾwīl*). This is possible because each of the Three Books, insofar as it is a scripture revealed by God, conveys the truth of *tawḥīd*. For “the Masters of Esotericism and the People of the Way” (*arbāb al-bāṭin wa ahl al-ṭarīqa*), then, the practice of *taʾwīl* consists precisely in the uncovering of the correspondences between the Three Books, for knowledge of the world, knowledge of the human being, and knowledge of the Qurʾān equally amount to knowledge of God, and the exegesis of these Three Book results in God’s self-disclosure, His revelation, to the exegete.[^15]
 
 
+
 ## Conclusion: Diagramming Correspondences
 
 Āmulī’s theory of correspondences follows from his theory of *tawḥīd*—every domain of reality (including number, language, the world, the human being) enacts the same process whereby multiplicity emerges out of oneness as an act of God’s self-disclosure, and, as a result, the domains of reality correspond with one another. Earlier in this blog post I introduced Āmulī’s theory of *tawḥīd* through an examination of four of the diagrams included in the *muqaddima* to *Naṣṣ al-nuṣūṣ*. These diagrams all exhibit a remarkable structural similarity. In fact, most of the other diagrams in *Naṣṣ al-nuṣūṣ*, as well as all the diagrams in *al-Muḥīṭ al-aʿẓam*, are modelled on the same basic circular pattern. In *Naṣṣ al-nuṣūṣ*, Āmulī explains his reasoning for constructing the diagrams as follows:
@@ -107,18 +118,25 @@ The diagrams, then, are pedagogical tools designed to communicate suprarational 
 I would like to conclude this piece with a brief reflection on two diagrams from *Naṣṣ al-nuṣūṣ* that explicitly visualize the correspondence theory of hermeneutics. Āmulī’s favorite subject for exegesis, to which he returns again and again in his works, is the *basmala*. In his commentary on the *khuṭba* of Ibn ʿArabī’s *Fuṣūṣ*, for example, he explains that when God sent down (*inzāl*) the Qurʾān and existentiated (*ījād*) the world and the human being, He began (*ibtadaʾa*) each of the Three Books with the phrase “In the name of God, the Gracious, the Merciful” (*bi-smi llāhi l-raḥmāni l-raḥīm*). The *basmala* is thus “the principle of each of the divine worlds and the source of each of the heavenly books.”[^17]
 
 
+
 ![MS Carullah 1033, fol. 62](/assets/viengkhou-5.jpg)
 *Figure 5: MS Carullah 1033, fol. 62*
 
 
+
 Consistent with Āmulī’s commitment to the primacy of number, his exegesis of the *basmala* centers on the number 19, this being the number of consonants and long vowels constituting the written phrase (*BSMALLHALRḤMNALRḤĪM*). Just as the Qurʾān is epitomized in the nineteen letters of the *basmala*, so are the Book of Horizons and the Book of Souls. In the Book of Horizons, the nineteen letters are expressed in two ways. On the one hand, the Universal Intellect, the Universal Soul, the nine heavenly spheres, the four elements, the three kingdoms of nature, and the human being (1+1+9+4+3+1=19) together constitute the nineteen levels of the cosmic hierarchy. On the other hand, the nineteen letters are spangled across the firmament with the seven planets and the twelve zodiacal constellations (7+12=19).[^18] These manifestations of the number 19 are illustrated in Figure 5, where the letters of the *basmala* sit atop the circles surrounding the circumference which enumerate the two sequences of 19—B:*jabarūt* (i.e. Universal Intellect):Sun, S:*malakūt* (i.e. Universal Soul):Jupiter, M:*ʿarsh* (i.e. Sphere of Atlas):Mars, A:*kursī* (i.e. Sphere of the Zodiac):Venus, and so on.
+
+
 
 ![MS Carullah 1033, fol. 62v](/assets/viengkhou-6.jpg)
 *Figure 6: MS Carullah 1033, fol. 62v*
 
+
+
 As for the Book of Souls, it also is composed in accordance with the number 19, again in two ways. First, human psychology can be analyzed into nineteen components, the particular intellect, the particular soul, the five exterior senses, the five interior senses, the four souls (*amāra*, *lawāma*, *mulhama*, and *muṭmaʾanna*), and the three spirits (mineral, vegetable, and animal) (1+1+5+5+4+3=19).[^19] The second manifestation of the number 19 concerns the cycles of prophecy (*nubūwa*) and sanctified authority (walāya), for each of the seven major prophets (Adam, Noah, Abraham, David, Moses, Jesus, Muḥammad) is succeeded by twelve *awlīyāʾ* (7+12=19). Āmulī depicts the cycles of *nubūwa* and *walāya* in the diagram in Figure 6. As with the previous diagram, this one features the letters of the *basmala* inscribed over the nineteen circles along the circumference. Seven of these circles contain the names of the seven major prophets written in black ink, and beneath the name of each prophet, written in red ink, occurs the word “pole” (*quṭb*) to denote the position of the prophets at the apex of the spiritual hierarchy. The remaining twelve circles contain the names of the *awlīyāʾ* of Adam (black ink) and the *awlīyāʾ* of Muḥammad, namely the imāms of Twelver Shīʿism (red ink).
 
 In *Naṣṣ al-nuṣūṣ* and elsewhere, Āmulī goes on to articulate a considerably more complex exegesis of the nineteen letters of the *basmala* as they are encoded within the Book of Horizons and the Book of Souls.[^20] He also produces other diagrams that visualize the manifestations of the number 19 in the cosmic and human domains from different perspectives. It is hoped, however, that this short analysis of the diagrams in Figures 5 and 6 will have sufficiently introduced the reader to Āmulī’s theory of correspondences and its application as a universal hermeneutic addressed to a scripturalized reality.
+
 
 ## Author Bio
 
