@@ -14,12 +14,12 @@ The most obvious historical context for assessing Āmulī and his work is to be 
 
 
 
-### Tawḥīd and Cosmology
+### The Procession of Tawḥīd
 
-Āmulī was a systematic thinker whose entire worldview is constructed around the axial concept of (*tawḥīd*). In *Jāmiʿ al-asrār* he describes the “virtues” (*faḍāʾil*) of *tawḥīd* as follows:
+Āmulī was a systematic thinker whose entire worldview is constructed around the axial concept of *tawḥīd*. In *Jāmiʿ al-asrār* he describes the “virtues” (*faḍāʾil*) of *tawḥīd* as follows:
 
 
-> Existence (*wujūd*) in its entirety occurs in accordance with tawḥīd, comprehended by its ranks. All existents (*mawjūdāt*) are determined by it, created for its sake. All the prophets and sanctified authorities (*awlīyāʾ*)—upon whom be peace—were sent only to make it manifest and to summon humanity towards it. The axis of all the perfections and the foundation of all the stations, outwardly and inwardly, depend on it and its ranks. Knowledge of it is the epitome of all the sciences, both exoteric (*rasmīya*) and esoteric (*ḥaqīqīya*). It is the principle of religion and Islam, and the means for attainment of the garden and the fire.[^4]
+> Existence (*wujūd*) in its entirety occurs in accordance with *tawḥīd*, comprehended by its ranks. All existents (*mawjūdāt*) are determined by it, created for its sake. All the prophets and sanctified authorities (*awlīyāʾ*)—upon whom be peace—were sent only to make it manifest and to summon humanity towards it. The axis of all the perfections and the foundation of all the stations, outwardly and inwardly, depend on it and its ranks. Knowledge of it is the epitome of all the sciences, both exoteric (*rasmīya*) and esoteric (*ḥaqīqīya*). It is the principle of religion and Islam, and the means for attainment of the garden and the fire.[^4]
 
 
 For Āmulī, then, any inquiry into metaphysics, sacred history, anthropology, epistemology, or theology is, at its base, an inquiry into *tawḥīd*. Unsurprisingly, his cosmology and hermeneutics are also deeply informed by his theory of *tawḥīd*.
@@ -80,7 +80,7 @@ The diagram in Figure 4 once again represents the emergence of multiplicity from
 
 
 
-### The Three Great Books
+### The Three Books
 
 In addition to showing how all the letters emerge from the letter *alif* and all the numbers emerge from the number 1, the diagram in Figure 4 is constructed so as to illuminate how the *tawḥīd* of numbers and letters “proceeds according to the correspondence (*taṭbīq*) of the worlds.” The diagram thus functions as a circular table of correspondences correlating the twenty-eight letters of the Arabic alphabet, numbers (1-9, 10-90, 100-900, 1000), and various features of the created universe—1:A:divine pen (*al-qalam*):human being (*al-insān*), 2:B:heavenly tablet (*al-lawḥ*):intellect (*al-ʿaql*), 3:J:dust cloud (*al-habāʾ*):soul (*al-nafs*), 4:D:nature (*al-ṭabīya*):roaming spirits (*al-muhayyama*), and so on.
 
@@ -133,7 +133,7 @@ Consistent with Āmulī’s commitment to the primacy of number, his exegesis of
 
 
 
-As for the Book of Souls, it also is composed in accordance with the number 19, again in two ways. First, human psychology can be analyzed into nineteen components, the particular intellect, the particular soul, the five exterior senses, the five interior senses, the four souls (*amāra*, *lawāma*, *mulhama*, and *muṭmaʾanna*), and the three spirits (mineral, vegetable, and animal) (1+1+5+5+4+3=19).[^19] The second manifestation of the number 19 concerns the cycles of prophecy (*nubūwa*) and sanctified authority (walāya), for each of the seven major prophets (Adam, Noah, Abraham, David, Moses, Jesus, Muḥammad) is succeeded by twelve *awlīyāʾ* (7+12=19). Āmulī depicts the cycles of *nubūwa* and *walāya* in the diagram in Figure 6. As with the previous diagram, this one features the letters of the *basmala* inscribed over the nineteen circles along the circumference. Seven of these circles contain the names of the seven major prophets written in black ink, and beneath the name of each prophet, written in red ink, occurs the word “pole” (*quṭb*) to denote the position of the prophets at the apex of the spiritual hierarchy. The remaining twelve circles contain the names of the *awlīyāʾ* of Adam (black ink) and the *awlīyāʾ* of Muḥammad, namely the imāms of Twelver Shīʿism (red ink).
+As for the Book of Souls, it also is composed in accordance with the number 19, again in two ways. First, human psychology can be analyzed into nineteen components, the particular intellect, the particular soul, the five exterior senses, the five interior senses, the four souls (*amāra*, *lawwāma*, *mulhama*, and *muṭmaʾanna*), and the three spirits (mineral, vegetable, and animal) (1+1+5+5+4+3=19).[^19] The second manifestation of the number 19 concerns the cycles of prophecy (*nubūwa*) and sanctified authority (walāya), for each of the seven major prophets (Adam, Noah, Abraham, David, Moses, Jesus, Muḥammad) is succeeded by twelve *awlīyāʾ* (7+12=19). Āmulī depicts the cycles of *nubūwa* and *walāya* in the diagram in Figure 6. As with the previous diagram, this one features the letters of the *basmala* inscribed over the nineteen circles along the circumference. Seven of these circles contain the names of the seven major prophets written in black ink, and beneath the name of each prophet, written in red ink, occurs the word “pole” (*quṭb*) to denote the position of the prophets at the apex of the spiritual hierarchy. The remaining twelve circles contain the names of the *awlīyāʾ* of Adam (black ink) and the *awlīyāʾ* of Muḥammad, namely the imāms of Twelver Shīʿism (red ink).
 
 In *Naṣṣ al-nuṣūṣ* and elsewhere, Āmulī goes on to articulate a considerably more complex exegesis of the nineteen letters of the *basmala* as they are encoded within the Book of Horizons and the Book of Souls.[^20] He also produces other diagrams that visualize the manifestations of the number 19 in the cosmic and human domains from different perspectives. It is hoped, however, that this short analysis of the diagrams in Figures 5 and 6 will have sufficiently introduced the reader to Āmulī’s theory of correspondences and its application as a universal hermeneutic addressed to a scripturalized reality.
 
