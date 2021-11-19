@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Islamic Occult Studies on the Rise: Next Workshop, November 12"
+title: "Islamic Occult Studies on the Rise: Next Workshop, December 10"
 author: Matthew Melvin-Koushki and Noah Gardiner
 categories: schedule
 tags: [schedule,contributions]
@@ -9,22 +9,21 @@ image: hamsah-1.jpg
 
 Welcome to the website of Islamic Occult Studies on the Rise, an online international workshop on the Islamic occult sciences and related matters. Below is information on the upcoming meeting. Click Schedule in the menu above for the complete list of panels.
 
-## Next meeting: Friday, November 12, 2021
+## Next meeting: Friday, December 10, 2021
 
 The schedule for the next meeting is as follows:
 
-### Panel 1: Maghribi Magic
+### Panel 1: Lettrism & Kabbalah
 
-Veronica Menaldi, Assistant Professor, *University of Mississippi*
+Elizabeth Sartell, Assistant Professor, *Lewis University*
 
-José Bellver, Research Fellow, *University of Louvain*
+Beatrice Bottomley, PhD Candidate, *The Warburg Institute*
 
+### Panel 2: Talismanry & Geomancy
 
-### Panel 2: Occult Reformism
+Arianna Dalla Costa, PhD Candidate, *The Warburg Institute*
 
-Daniel Morgan, Assistant Professor, *Santa Clara University*
-
-Anuj Kaushal, PhD Candidate, *University of Texas at Austin*
+Rao Mohsin Ali Noor, PhD Candidate, *University of Chicago*
 
 
 ### Happy Hour! 1pm til...
