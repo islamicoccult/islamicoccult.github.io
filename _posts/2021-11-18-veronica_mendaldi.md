@@ -32,6 +32,7 @@ As such, despite being constantly persecuted for their practices—just as the C
 ![MS Libro de dichos folio 102r](/assets/menaldi2.jpg)
 
 
+
 ## Example
 
 
@@ -41,10 +42,12 @@ This leads me to my example. As the magic contained in this treatise is meant to
 Having established his presumed credentials and invoking the help of various angels (this time spelled correctly "ālmalekah" ), the practitioner is then meant to state that they are among those who are able to speak with the angels who guard the sacred names of God. As this section is mostly in Arabic, either the Morisco copyists of this section knew Arabic or were copying from an Arabic source without necessarily knowing the meaning of each word. Furthermore, when the term "angels" was used before, it was done in combination of Spanish and Arabic which could suggest that the Morisco copyists roughly knew how to say "angels" in Arabic but forgot it was already pluralized and added an additional Spanish ending---something not done here given its more monolingual context. After the practitioner establishes their credibly they are meant to call out to jinn and demons asking them to answer the call and obey the forthcoming command. Here the Morisco practitioner establishes themselves as someone who has the ability to speak with celestial beings and understands the significance of the many names of God. The Hebrew phrase used here, like in the other examples, comes from God's revelation in Exodus 3:14 when he declares "I am that I am". It is a powerful moment of revelation and self-identification of God's existence and it is its use in protective spells I find most interesting. In this grimoire alone, what made the spells and protections powerful was their diversity. I do not mean to imply that Moriscos looked to insure their talismans had elements of the three religions but rather that the source of the spell or enchantment was not limited to any religion. As long as what their amulet contained what was considered powerful or important, it was valued. This attitude could explain why many list various religious figures in sequence---one mention is good but more mentions are better. 
 
 
+
 ## Conclusion
 
 
 Ultimately, the continued and repeated use of this particular Hebrew phrase and its variations circles back to the issue of self-identification and self-manifestation. In not translating this phrase and preserving the already fluid use of Arabic and Spanish, one can read a message of cross-religious unity. Regardless of whether Moriscos were genuine Christian converts or not, they for the most part were believers and as believers they elevated the power of God in relation to his various creations. Even if there is difference, there is a fraternity among humans as creations of God. Therefore, perhaps this reading of Moriscos linguistic variance helps us understand how through magic Moriscos were able to transcend traditionally fixed identity markers. Just as God declares he is existence itself or rather is the act of being in everything, Moriscos took that message to heart and when it came to protective magic, erase division among believers. 
+
 
 
 ## Author bio
