@@ -29,9 +29,6 @@ I do not wish to imply that Moriscos were seen as equals or that they saw no div
 As such, despite being constantly persecuted for their practices—just as the Conversos were—by inquisitors searching for differences these Moriscos turned to talismans that were not only meant to protect them but in a way emphasized unity drawing not only on material from the Qur'an but also the Bible and the Torah. The point of these protective practices was to demonstrate how the line between believers could be erased through the will of God. Just as a child turns to their parents for protection, so too do believers turn to God and if the magic contained in this manuscript is God-sanctioned then Moriscos are thus in the unique position of reconciling their seemingly competing religious thoughts and practices. For instance, in the preliminary material to the entire manuscript the Morisco copyists start on folio br, mostly in Spanish, with a first person narration of how they got the contents and states that a sage confirmed that what is in this book, among other things, are seals of Solomon. Presumably within these seals are references to "ālmalekaeš" \[angels\].[^6] This term is curious as it takes the Arabic plural for angels, "ālmalekah", and adds a Spanish plural ending of "es" suggestive that the copyists, while familiar with some Arabic were not completely fluent and created a Spano-Arabic blend in addition to their code-switching between languages throughout the passage.[^7] This entry continues on the same folio explaining that the seals here contained are meant to "wardar i medezinar" \[protect and cure\] people, animals, or their goods with the blessing of God.[^8]
 
 
-![MS Libro de dichos folio 102r](/assets/menaldi2.jpg)
-
-
 
 ## Example
 
@@ -40,6 +37,10 @@ This leads me to my example. As the magic contained in this treatise is meant to
 
 
 Having established his presumed credentials and invoking the help of various angels (this time spelled correctly "ālmalekah" ), the practitioner is then meant to state that they are among those who are able to speak with the angels who guard the sacred names of God. As this section is mostly in Arabic, either the Morisco copyists of this section knew Arabic or were copying from an Arabic source without necessarily knowing the meaning of each word. Furthermore, when the term "angels" was used before, it was done in combination of Spanish and Arabic which could suggest that the Morisco copyists roughly knew how to say "angels" in Arabic but forgot it was already pluralized and added an additional Spanish ending---something not done here given its more monolingual context. After the practitioner establishes their credibly they are meant to call out to jinn and demons asking them to answer the call and obey the forthcoming command. Here the Morisco practitioner establishes themselves as someone who has the ability to speak with celestial beings and understands the significance of the many names of God. The Hebrew phrase used here, like in the other examples, comes from God's revelation in Exodus 3:14 when he declares "I am that I am". It is a powerful moment of revelation and self-identification of God's existence and it is its use in protective spells I find most interesting. In this grimoire alone, what made the spells and protections powerful was their diversity. I do not mean to imply that Moriscos looked to insure their talismans had elements of the three religions but rather that the source of the spell or enchantment was not limited to any religion. As long as what their amulet contained what was considered powerful or important, it was valued. This attitude could explain why many list various religious figures in sequence---one mention is good but more mentions are better. 
+
+
+
+![MS Libro de dichos folio 102r](/assets/menaldi2.jpg)
 
 
 
