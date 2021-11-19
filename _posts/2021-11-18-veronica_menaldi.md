@@ -44,6 +44,7 @@ Having established his presumed credentials and invoking the help of various ang
 
 
 
+
 ## Conclusion
 
 
@@ -51,7 +52,7 @@ Ultimately, the continued and repeated use of this particular Hebrew phrase and 
 
 
 
-## Author bio
+### Author bio
 
 [Veronica Menaldi](https://modernlanguages.olemiss.edu/veronica-menaldi/) is an assistant professor of Spanish in the Department of Modern Languages at the University of Mississippi. She received her PhD from the Department of Spanish and Portuguese Studies at the University of Minnesota in 2018. Her research focuses on premodern (medieval and early modern) Iberian literatures and cultures at times in relationship to the greater Mediterranean and across the Atlantic with an emphasis on magic, food, and multi-religious cultural contact. She is particularly interested in the relationship between Castilian and Andalusi or later Morisco communities. In her first book, [*Love Magic and Control in Premodern Iberian Literature*](https://www.routledge.com/Love-Magic-and-Control-in-Premodern-Iberian-Literature/Menaldi/p/book/9780367697204) (Routledge, July 2021) she focuses on love magic---manipulation of objects, celestial spheres, and demonic conjurings to facilitate sexual encounters---exploring how practitioners and victims of such magic are represented in major fictional works produced in Castile in conjunction with other cultures from the thirteenth to the seventeenth centuries. At the core of her investigations is the ability to see and explore cultural connections across time and space.
 
