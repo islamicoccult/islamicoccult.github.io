@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Veronica Menaldi on Protecting Children Through Fraternal Partnehips — Cross-Religious Unity in Sixteenth-Century Morisco Spells
+title: Veronica Menaldi on Protecting Children Through Fraternal Partnerships — Cross-Religious Unity in Sixteenth-Century Morisco Spells
 author: Veronica Menaldi
 categories: contributions
 tags: [contributions]
