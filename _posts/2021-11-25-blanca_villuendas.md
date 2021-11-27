@@ -36,6 +36,8 @@ Nowadays, dream interpretation is generally less appreciated as a religious scie
 
 ## Author bio
 
+[Blanca Villuendas](https://oxford.academia.edu/BlancaVilluendas) conducts research on intellectual history in the Islamicate world. Her contributions are devoted to the study of Arabic and Judeo-Arabic sources, particularly from the Cairo Genizah, and the production of editions of manuscripts and the tracing of their history and transmission. She is interested in examples of global traditions that challenge religious and cultural identities. To this end, she has focused on understudied divinatory sciences like geomancy and dream interpretation, on which she has published two books to date: *La geomancia en los manuscritos judeo-árabes de la Gueniza de El Cairo* (CSIC, 2015) and *Onirocrítica islámica, judía y cristiana en la Gueniza de El Cairo* (CSIC, 2020). She did her doctoral research at the Spanish Council of Scientific Research (CSIC) and concluded her doctorate at the Complutense University of Madrid in 2016. After a short-term Fellowship at the Warburg Institute, she worked as a Postdoctoral Research Assistant at the Center for Islamic Theology at the University of Tübingen, and is currently a Research Fellow at the University of Oxford, working on the digital humanities project “The History of the Jewish Book in the Islamicate World.” 
+
 
 ## Sources
 
