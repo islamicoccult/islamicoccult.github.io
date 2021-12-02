@@ -41,6 +41,10 @@ Nowadays, dream interpretation is generally less appreciated as a religious scie
 
 ## Sources
 
+First image: Muhammad's call to prophecy and the first revelation, from a Majmaʿ al-Tavarikh c.1425. MET DP100981.
+
+Second image: Detail of the title page of the Amiriyya copy of the dream book of Ibn Ghannām. MS BNF Arabe 2751.
+
 Al-Dīnawarī, *Kitāb al-taʿbīr fī-l-ruʾyā = Al-Qādirī fī-l-taʿbīr*, ed. F. Saʿd, (Beirut: ʿAlam al-Kutub, 1997).
 
 Ibn Isḥāq, *Le livre des songes (Kitāb Taʿbīr al-ruʾyā)*, ed. T. Fahd, (Damascus: Institut Français de Damas, 1964).
