@@ -7,19 +7,17 @@ tags: [contributions]
 image: de_block1.jpg
 ---
 
-**The case of the battle of Adana (890-1/1485-6)**
-
-When one thinks about the scholarly life of the Mamluk Sultanate - or the Sultanate of Cairo as is has come to be called in recent academic literature[^1] - astrology is not the first discipline that comes to mind. In spite of fruitful academic endeavors to criticize and counter decline narratives on the period, they still linger on in expectations on the existence and importance of the occult sciences, to which astrology --at least partly, as I will argue below - belongs. In this blog post I discuss two texts that were written by and circulated among scholars in the Syrian frontier zone of the late fifteenth century sultanate. In both of them, astrology plays a central role. In the first one, it does so directly, in the other two it is depicted as a subdiscipline of a religious form of mathematics, also known as lettrism. I will discuss both texts focusing on the recurring case of the battle of Adana between the Mamluk and the Ottoman army.
+When one thinks about the scholarly life of the Mamluk Sultanate - or the Sultanate of Cairo as is has come to be called in recent academic literature[^1] - astrology is not the first discipline that comes to mind. In spite of fruitful academic endeavors to criticize and counter decline narratives on the period, they still linger on in expectations on the existence and importance of the occult sciences, to which astrology --at least partly, as I will argue below - belongs. In this blog post I discuss two texts that were written by and circulated among scholars in the Syrian frontier zone of the late fifteenth century sultanate. In both of them, astrology plays a central role. In the first one, it does so directly, in the other it is depicted as a subdiscipline of a religious form of mathematics, also known as lettrism. I will discuss both texts focusing on the recurring case of the battle of Adana between the Mamluk and the Ottoman army.
 	
 
-Before I turn to the manuscripts, however, I want to briefly discuss the title of this post. I refer to these texts as 'occult astrology' here, because their authors depict the discipline they practice, and for which they use the terminology of '*ilm aḥkām al-nujūm*, as aiming at a deeper understanding of the hidden realities, or the occult (*maktūm* or *gha'ib*) by means of the stars. I use this terminology in contrast to the astrology practiced by Islamic timekeepers in this period, such as the calculation of birth horoscopes (*mawālīd*) and the compilation of ephemerides *(taqwīm)* for all kinds of applications. Muwaqqits do not refer to their practices as *'ilm ahkam al-nujūm*, but rather as *'ilm al-mīqāt,* the science of timekeeping or more general as *'ilm al-nujūm,* the science of the stars or '*ilm al-hay'a,* theoretical astronomy. [^2]
+Before I turn to the manuscripts, however, I want to briefly discuss the title of this post. I refer to these texts as 'occult astrology' here, because their authors depict the discipline they practice, and for which they use the terminology of '*ilm aḥkām al-nujūm*, as aiming at a deeper understanding of the hidden realities, or the occult (*maktūm* or *gha'ib*) by means of the stars. I use this terminology in contrast to the astrology practiced by Islamic timekeepers in this period, such as the calculation of birth horoscopes (*mawālīd*) and the compilation of ephemerides *(taqwīm)* for all kinds of applications. Muwaqqits do not refer to their practices as *'ilm aḥkām al-nujūm*, but rather as *'ilm al-mīqāt,* the science of timekeeping or more general as *'ilm al-nujūm,* the science of the stars or '*ilm al-hay'a,* theoretical astronomy. [^2]
 	
 
 ## ʿIlm aḥkām al-nujūm
 The first manuscript in which the battle between the Mamluk army of Azbak (or Uzbek[^3]) min Ṭuṭukh and the Ottoman army is mentioned, is a combination of a late fifteenth century copy of *Kitāb al-Bāriʿ fī Aḥkām al-Nujūm* by the Maghribī scholar Ibn Abī al-Rijāl (d. after 429/1037--8) and astrological reports of political events at the Syrian frontier zone of the sultanate in this period. It is written in the hand of a scholar named Aḥmad ibn Aḥmad Timurbāy, who lived and worked in Cairo at the end of the fifteenth century[^4]. These reports, Ibn Timurbāy writes, are copied from a treatise written by a colleague of his from Aleppo, whose name was al-Jamālī Yūsuf ibn Qurqmās al-Ḥamzāwī (d. 902/ca. 1497).[^5] Both of them were *ḥanafī* scholars as well as respected members of the military elite of the sultanate.[^6] 
 
 
-One of the cases in which Ibn Timurbāy and al-Ḥamzāwī illustrate the use they made of '*ilm aḥkām al-nujūm* is the battle between the Mamluk army led by the Egyptian *amīr* Azbak Min Ṭuṭūkh and the Ottoman army in Adana. Azbak Min Ṭuṭūkh was one of the most important grand amirs under Qāytbāy's reign, being his marshal of the army (*atābak*).[^7]  The first part of the battle discussed here, took place in 890/1485 and was part of a longer conflict at the frontier of the Sultanate of Cairo with the Ottoman Sultanate between 890/1485 and 896/1491. The Ottoman sultan Bāyezīd started a campaign against the Sultanate of Cairo with the aim to annex the Adana-Tarsus region, the lower plain of Cilicia. For this campaign he received help from the Turkmen Qaramanid army. The Sultanate of Cairo on the other hand, had a military alliance with the Turkmen principality of the Ramadanids, whose center of power was located in the city of Adana at the frontiers of the Sultanate. In May 1485, an army led by the Qaramanid leader Karagöz Mehmet Paša crossed the frontier of the Syro-Egyptian territory. At first, the Syro-Egyptian forces retracted to Aleppo. When the news of the Ottoman invasion reached Cairo around August 1485, Qāytbāy ordered the army to mobilize and sent money and provisions to the Ramadanids asking them to show resistance to the Ottoman forces. In the month of Shawwāl 890 or October 1485, the Egyptian army left for Adana under the command of Azbak. In Damascus and Aleppo the army joined forces with the provincial armies of Syria.[^8] For the moment right before the confrontation of both armies, a horoscope was drawn in this manuscript. The description goes as follows: 
+One of the cases in which Ibn Timurbāy and al-Ḥamzāwī illustrate the use they made of '*ilm aḥkām al-nujūm* is the battle between the Mamluk army led by the Egyptian *amīr* Azbak Min Ṭuṭūkh and the Ottoman army in Adana. Azbak Min Ṭuṭūkh was one of the most important grand amirs under Qāytbāy's reign, being his marshal of the army (*atābak*).[^7]  The first part of the battle discussed here, took place in 890/1485 and was part of a longer conflict at the frontier of the Sultanate of Cairo with the Ottoman Sultanate between 890/1485 and 896/1491. The Ottoman sultan Bāyezīd started a campaign against the Sultanate of Cairo with the aim to annex the Adana-Tarsus region, the lower plain of Cilicia. For this campaign he received help from the Turkmen Qaramanid army. The Sultanate of Cairo on the other hand, had a military alliance with the Turkmen principality of the Ramadanids, whose center of power was located in the city of Adana at the frontiers of the Sultanate. In May 1485, an army led by the Qaramanid leader Karagöz Mehmet Pasha crossed the frontier of the Syro-Egyptian territory. At first, the Syro-Egyptian forces retracted to Aleppo. When the news of the Ottoman invasion reached Cairo around August 1485, Qāytbāy ordered the army to mobilize and sent money and provisions to the Ramadanids asking them to show resistance to the Ottoman forces. In the month of Shawwāl 890 or October 1485, the Egyptian army left for Adana under the command of Azbak. In Damascus and Aleppo the army joined forces with the provincial armies of Syria.[^8] For the moment right before the confrontation of both armies, a horoscope was drawn in this manuscript. The description goes as follows: 
 
 
 > Azbak, the Atābak of the Egyptian army left to meet the Ottoman army
@@ -46,16 +44,16 @@ One of the cases in which Ibn Timurbāy and al-Ḥamzāwī illustrate the use th
 Here, Ibn Timurbāy states that the indicator for the Ottoman army is Mars, which is sixty degrees apart from the moon. Mars is the ruler (*rabb*) of Aries, the seventh house and the house that is the most significant for Azbak. This situation does not appear to be in favor of the Mamluk army led by Azbak. Ibn Timurbāy mentions that Azbak was not present at some of the battles that were actually won by the Mamluk army. The text continues with the events of the 4th of the month Ṣafar 891/February 9, 1486, when the Ottoman troops marched upon the Mamluk forces. [^10] Ibn Timurbāy writes: 
 
 
-> 'On Thursday the fourth of ṣafar of the year 891 Azbak, Atābak of the
+> On Thursday the fourth of ṣafar of the year 891 Azbak, Atābak of the
 > Egyptian troops \[...\] appointed Timrāz, the 'amīr of arms' (*amīr
 > silāḥ*) as deputy and sent him to the city of Adana with the
-> troops.'[^11]
+> troops.[^11]
 
 
 He then goes on explaining that:
 
 
-> Aḥmad ibn Hersek, the leader of the Ottoman \[Rūmiyya\] troops came
+> Aḥmad ibn Hersek, the leader of the Ottoman troops came
 > forth at the break of dawn; so the Egyptian \[troops\] moved on to
 > confront him. And when \[news\] reached Azbak that the name of the
 > leader of Rūm was Aḥmad -- and my name is Aḥmad too -- a winner
@@ -75,7 +73,7 @@ Ibn Timurbāy states here that Azbak ordered Timrāz to command the troops becau
 In the second text 'al-Durr al-Maṭlūb fi-Sirr al-Ghālib wa-l-Maghlūb', of which we have both scholars' manuscripts, al-Ḥamzāwī and Ibn Timurbāy discuss the alphanumerical method of 'al-Ghālib wa-l-Maghlūb' or 'the victor and the vanquished'.[^13] The terminology of the victor and the vanquished echoes the pseudo-Aristotelian work of the "*Sirr al-Asrār"* ("*Secret of Secrets*") in which Aristotle explains to Alexander the Great how one can determine '*the victor'* (*al-ghālib*) and '*the vanquished'* (*al-maghlūb*) in a battle or conflict based on an analysis of the letters of the names of the leaders of the parties in battle.[^14] This text is not a copy of the work, but applies the technique, again, to a wide range of battles in the Syrian frontier zone. The authors mention twenty-one examples in this text, of which the last one coincides with the battle in Adana that is discussed above. As I mentioned, this battle ended with the victory of the army of the sultanate of Cairo. In this text, we find a general rule or explanation for Ibn Timurbāy's statement that Aḥmad Ibn Hersek was a winner or *ghālib* according to his *ism*. The text says:
 
 
-> 'If you want to arrive at knowledge of the name of the victor and the
+> If you want to arrive at knowledge of the name of the victor and the
 > vanquished, so that the latent secret of God in the hidden \[side of\]
 > things (*sirr al-Lāh al-kāmin fī-l ghuyūb*) will be revealed to you,
 > then calculate the name of the parties involved in battle according to
@@ -85,28 +83,28 @@ In the second text 'al-Durr al-Maṭlūb fi-Sirr al-Ghālib wa-l-Maghlūb', of w
 > one odd\]. If both numbers are alike \[i.e. both even or odd\], then
 > the smallest of them is the winner. If they are equal, then one of
 > them both is the lord of the sword and the other one is the lord of
-> the pen, the dominant party is the party of the sword'[^15]
+> the pen, the dominant party is the party of the sword.[^15]
 
 
 In the table mentioned, the letters of the Arabic alphabet are given the following values:
 
 
-> 'And these are the values of the letters: *ālif*, *yā'*, *qāf* and
-> *ghayn* have a value of one. *Bā*, *kāf* and *rā* have a value of two.
+> And these are the values of the letters: *ālif*, *yā'*, *qāf* and
+> *ghayn* have a value of one. *Bāʾ*, *kāf* and *rāʾ* have a value of two.
 > *Jīm*, *lām* and *shīn* each have a value of three. *Dāl*, *mīm*,
-> *tā'* have a value of four. *Hā'*, *nūn*, *thā'* have a value of five.
-> *Wāw*, *sīn*, *khā'* each have a value of six. *Zā'*, *ʿayn* and
-> *dhāl* have a value of seven. *Ḥā'*, *fā'* and *ḍāl* each have a value
-> of eight. *Ṭā'*, *ṣād* and *ḍhā'* have a value of nine.' [^16]
+> *tā'* have a value of four. *Hāʾ*, *nūn*, *thāʾ* have a value of five.
+> *Wāw*, *sīn*, *khāʾ* each have a value of six. *Zāʾ*, *ʿayn* and
+> *dhāl* have a value of seven. *Ḥāʾ*, *fāʾ* and *ḍāl* each have a value
+> of eight. *Ṭāʾ*, *ṣād* and *ḍhāʾ* have a value of nine.[^16]
 
 
-In the case of the battle between Azbak min Ṭuṭukh and Aḥmad Ibn Hersek, the alphanumerical method requires its user to compare the value of the *ism* Azbak (1 + 7 + 2 + 2 = 12, of which the sum of the digits equals 3) to the value of the *ism* Aḥmad (1 + 8 + 4 + 4 = 17, of which the sum of the digits equals 8). In a battle between an eight and a three, that is between an odd and an even number, the highest number will be the victor. In this case, that is eight or Aḥmad ibn Hersek. The outcome of this calculation is written down in the text itself. However, as we know, the battle in Adana was won by the army of the sultanate. The authors do not discuss this explicitly, but, as explained above, Ibn Timurbāy emphasizes that Azbak did not lead the troups during the battle in Adana. Instead, he appointed 'Timrāz, the '*amīr* of arms' (*amīr silāḥ*) as deputy and sent him to the city of Adana with the troops'[^17]. The value of the *ism* Timrāz was 9 (4 + 4 + 2 + 1 + 7 = 18, sum of the digits is 9), as mentioned by Ibn Timurbāy elsewhere in the text. The impact of Timrāz on the outcome of the battle is not explicitly discussed here, but the enigmatic fragment in the text discussed above provides an explanation, and -- in that way -- also a clear example of how *'ilm aḥkām al-nujūm* and the science of letters relate to each other for these authors.
+In the case of the battle between Azbak min Ṭuṭukh and Aḥmad Ibn Hersek, the alphanumerical method requires its user to compare the value of the *ism* Azbak (1 + 7 + 2 + 2 = 12, of which the sum of the digits equals 3) to the value of the *ism* Aḥmad (1 + 8 + 4 + 4 = 17, of which the sum of the digits equals 8). In a battle between an eight and a three, that is between an odd and an even number, the highest number will be the victor. In this case, that is eight or Aḥmad ibn Hersek. The outcome of this calculation is written down in the text itself. However, as we know, the battle in Adana was won by the army of the sultanate of Cairo. The authors do not discuss this explicitly, but, as explained above, Ibn Timurbāy emphasizes that Azbak did not lead the troops during the battle in Adana. Instead, he appointed 'Timrāz, the '*amīr* of arms' (*amīr silāḥ*) as deputy and sent him to the city of Adana with the troops'[^17]. The value of the *ism* Timrāz was 9 (4 + 4 + 2 + 1 + 7 = 18, sum of the digits is 9), as mentioned by Ibn Timurbāy elsewhere in the text. The impact of Timrāz on the outcome of the battle is not explicitly discussed here, but the enigmatic fragment in the text discussed above provides an explanation, and -- in that way -- also a clear example of how *'ilm aḥkām al-nujūm* and the science of letters relate to each other for these authors.
 
 
 ## The Malik of sciences and his Wazīr
-Both the stars and the names of the commanders provide part of th explanation on why the Mamluk army is the winning party here. Of course one could ask oneself how *'ilm aḥkām al-nujūm* is related to thi alphanumerical method. This is discussed by the authors in the firs part of the text on *al-ghālib wa-l maghlūb*. There, they introduc their view on knowledge. They write:
+Both the stars and the names of the commanders provide part of the explanation on why the Mamluk army is the winning party here. Of course one could ask oneself how *ʿilm aḥkām al-nujūm* is related to this alphanumerical method. This is discussed by the authors in the first part of the text on *al-ghālib wa-l maghlūb*. There, they introduce their view on knowledge. They write:
 
-> 'Know that the letters, although they are inside the forms of the
+> Know that the letters, although they are inside the forms of the
 > soul, are the treasures in which God placed noble secrets and subtle
 > signs, \[that is\] some of the numbers whether in composition or in
 > singles, related to the state of their \[i.e. the beings'\]
@@ -114,16 +112,15 @@ Both the stars and the names of the commanders provide part of th explanation on
 > immaterial spirits by means of their bodily forms in which God brought
 > into being the world and in which He put the signs, and made them the
 > signs of the stars/signs *(aʿlām al-aʿlām)*[^18] and the secrets
-> of judgements.'[^19]
+> of judgements.[^19]
 
 
 In this paragraph, the authors suggest that in reading and interpreting the signs of the stars we get an indication of the numbers that constitute their form, a number that is referred to in the language we use to talk about these stars. Their form (*ṣūra)* is the ideal, non-material part in them that makes up their essence and that keeps the parts of their body together as a principle of unity. This is not only the case for the stars, but for all existing things. Letters are used to name all existing things, that is, all combinations of form and matter.[^20] In this way, letters give us an idea of the number specific to the essence of a being and are thus a part of the ideal world inserted in matter. Citing the *ikhwān*'s letter on magic (*sihr*)[^21], the authors further clarify that:
 
 
-> 'if all the sciences are like a governor (*wazīr*), then the science
+> If all the sciences are like a governor (*wazīr*), then the science
 > of mathematics (*ʿilm al-ḥisāb*) is like the ruler (*malik*), and I
-> add to this: except for the science of religion (*ʿilm al-dīn*).'
-> '[^22]
+> add to this: except for the science of religion (*ʿilm al-dīn*).[^22]
 
 
 In line with the aforementioned correlation between letters and numbers, *ʿilm al-ḥisāb* is used here in a lettrist sense. The fact that the science of religion or *ʿilm al-dīn* is, according to al-Ḥamzāwī the leader or *malik* of all sciences, shows the inherently religious character of *ʿilm al-ḥisāb*. The explicitly *ṣūfī* terminology used throughout the text is evocative of this aspect of lettrism. As such, the authors' work does not only shed light on occult astrology within the late fifteenth century sultanate of Cairo, but also suggests relations to a wider network of occultism scholars across the borders of political entities, sometimes referred to as the 'new brethren of purity'.[^23]
