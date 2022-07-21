@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fien De Block on Occult astrology in the late fifteenth century Sultanate of Cairo
+title: Fien De Block on Occult Astrology in the Late Fifteenth Century Sultanate of Cairo
 author: Fien De Block
 categories: contributions
 tags: [contributions]
