@@ -10,10 +10,9 @@ image: hamza1.jpg
 
 One of the last manuscripts I saw at the Biblioteca Ambrosiana in fall 2019 was a copy of *Medicine Made Easy (Tashīl al-manāfi' fī'l-ṭibb wa'l-ḥikma)*. This text was composed in fifteenth-century Yemen by Ibrāhīm ibn 'Abd al-Raḥmān al-Azraq (d. after 1485 CE), a time and place remote from most histories of science and medicine in the medieval Islamic word. On folio 227a, I came across a magic square that I had come to recognize from many other medical manuscripts made in Yemen. Little did I know at the time, this square had been recommended to ease difficult labor since the ninth century:
 
-| :---: | :---: | :---: |
-| 4     | 9     | 2     |
-| 3     | 5     | 7     |
-| 8     | 1     | 6     |
+| 4 | 9 | 2 |
+| 3 | 5 | 7 |
+| 8 | 1 | 6 |
 
 I have placed the numerals in this digital square in the order instructed by the text, according to the conditions laid out therein:
 
