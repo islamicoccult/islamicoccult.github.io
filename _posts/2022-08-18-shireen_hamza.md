@@ -26,7 +26,7 @@ Since I did not at first know where al-Fārisī got this magic square from, I th
 
 In this text, according to Bink Hallum, we find the earliest dateable *wafq* or magic square in the Islamic world, within a chapter on facilitating childbirth. Al-Ṭabarī came from an erudite Christian family serving as secretaries in Tabaristan, which is now the northern coast of Iran along the Caspian Sea. His father was renowned for his knowledge in medicine and other disciplines, and al-Ṭabarī followed suit in his studies. He moved from political service in Tabaristan to the Abbasid court at Samarra, in what is now Iraq, where eventually he became a close companion *(nadīm)* of al-Mutawakkil (r. 847-861 CE). It was during this period, in 850 CE, that he composed *Paradise of Wisdom (Firdaws al-ḥikma)*. He introduces the magic square as part of a wondrous (*'ajīb*) and tried and true (*mujarrab*) remedy his father used to use. The 3x3 magic square should be inscribed on two pieces of a clay jug, untouched by water:
 
-> “Around each one you write two verses from the Psalms, and they are brought to the woman so that she gazes intently at the writing on them. Then you place them under her feet. He [my father] used to order that a little clay be taken from a swallow's nest and ground with lily oil, that her pubes and groin be anointed with it, and that a stem of coriander be gently plucked and its root taken and bound to the woman's thigh.” [^4]
+> Around each one you write two verses from the Psalms, and they are brought to the woman so that she gazes intently at the writing on them. Then you place them under her feet. He [my father] used to order that a little clay be taken from a swallow's nest and ground with lily oil, that her pubes and groin be anointed with it, and that a stem of coriander be gently plucked and its root taken and bound to the woman's thigh.[^4]
 
 ![Arundel Or 41 f 135b horizontal talisman](/assets/hamza2.jpg)
 
@@ -68,11 +68,11 @@ British Library: Oriental Manuscripts, Arundel Or 41, portion of folio 135b, in 
 
 [^9]: More on this in my forthcoming dissertation, *Islam and Medicine in the Medieval Indian Ocean World.*
 
-[^10] Sara Verskin, *Barren Women: Religion and Medicine in the Medieval Middle East,* De Gruyter, 2020: 122.
+[^10]: Sara Verskin, *Barren Women: Religion and Medicine in the Medieval Middle East,* De Gruyter, 2020: 122.
 
-[^11] Verskin, *Barren Women,* 230-236, 262-268.
+[^11]: Verskin, *Barren Women,* 230-236, 262-268.
 
-[^12] Eric Moses Gurevitch, "The uses of useful knowledge and the languages of vernacular science: Perspectives from southwest India." *History of Science* 59, no. 3 (2021): 256-286, at 285. 
+[^12]: Eric Moses Gurevitch, "The uses of useful knowledge and the languages of vernacular science: Perspectives from southwest India." *History of Science* 59, no. 3 (2021): 256-286, at 285. 
 
-[^13] For a recent example of this see Justin K. Stearns, *Revealed Sciences: The Natural Sciences in Islam in Seventeenth-Century Morocco.* Cambridge University Press, 2021. For an exploration of local concerns through medical glossaries, see: Shireen Hamza, "Vernacular Languages and Invisible Labor in Ṭibb." *Osiris* 37, no. 1 (2022): 115-138.
+[^13]: For a recent example of this see Justin K. Stearns, *Revealed Sciences: The Natural Sciences in Islam in Seventeenth-Century Morocco.* Cambridge University Press, 2021. For an exploration of local concerns through medical glossaries, see: Shireen Hamza, "Vernacular Languages and Invisible Labor in Ṭibb." *Osiris* 37, no. 1 (2022): 115-138.
 
