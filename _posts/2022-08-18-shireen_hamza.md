@@ -50,59 +50,29 @@ Images: Staatsbibliothek zu Berlin Glaser 204 portion of f. 32a in [Digitalisier
 
 British Library: Oriental Manuscripts, Arundel Or 41, portion of folio 135b, in [Qatar Digital Library] (https://www.qdl.qa/en/archive/81055/vdc_100023062750.0x000001)
 
-[^1] Biblioteca Ambrosiana Arabi Nuovo Fondi E5 f. 227a.
+[^1]: Biblioteca Ambrosiana Arabi Nuovo Fondi E5 f. 227a.
 
-[^2] My gratitude to Noah Gardiner for pointing me to this article:
-Bink Hallum, *"*New Light on Early Arabic *Awfāq* Literature," in
-*Islamicate Occult Sciences in Theory and Practice.* Brill, 2020:
-57-161.
+[^2]: My gratitude to Noah Gardiner for pointing me to this article: Bink Hallum, *"*New Light on Early Arabic *Awfāq* Literature," in *Islamicate Occult Sciences in Theory and Practice.* Brill, 2020: 57-161.
 
-[^3] Hallum, "New Light," 61-2.
+[^3]: Hallum, "New Light," 61-2.
 
-[^4] Here is the translation of these verses from Hallum, "New
-Light," 74: "Bring my soul out of prison that I may give thanks unto
-Your name. / Truly Your righteous ones will expect me when You have
-rewarded me."
+[^4]: Here is the translation of these verses from Hallum, "New Light," 74: "Bring my soul out of prison that I may give thanks unto Your name. / Truly Your righteous ones will expect me when You have rewarded me."
 
-[^5] "Archive Information for this Record," *Firdaws al-ḥikmah
-[فردوس الحكمة]{dir="rtl"} Ṭabarī, ʿAlī ibn Sahl Rabban [طبري، علي بن سهل
-ربن]{dir="rtl"},* British Library: Oriental Manuscripts, Arundel Or 41,
-in [Qatar Digital Library]
-(https://www.qdl.qa/archive/81055/vdc_100023062750.0x000001) [accessed
-9 August 2022]
+[^5]: "Archive Information for this Record," *Firdaws al-ḥikmah [فردوس الحكمة]{dir="rtl"} Ṭabarī, ʿAlī ibn Sahl Rabban [طبري، علي بن سهل ربن]{dir="rtl"},* British Library: Oriental Manuscripts, Arundel Or 41, in [Qatar Digital Library] (https://www.qdl.qa/archive/81055/vdc_100023062750.0x000001) [accessed 9 August 2022]
 
-[^6] Hallum, "New Light," 68-9, and 75-6.
+[^6]: Hallum, "New Light," 68-9, and 75-6.
 
-[^7] British Library: Oriental Manuscripts, Arundel Or 41, folios
-24a-b, in [Qatar Digital Library]
-(https://www.qdl.qa/archive/81055/vdc_100023062750.0x000001) [accessed
-9 August 2022]. See also references to these "superstitions" in: Max
-Meyerhof, "Alî at-Tabarî's 'Paradise of Wisdom,' one of the oldest
-Arabic Compendiums of Medicine." *Isis* 16, no. 1 (1931): 6-54.
+[^7]: British Library: Oriental Manuscripts, Arundel Or 41, folios 24a-b, in [Qatar Digital Library] (https://www.qdl.qa/archive/81055/vdc_100023062750.0x000001) [accessed 9 August 2022]. See also references to these "superstitions" in: Max Meyerhof, "Alî at-Tabarî's 'Paradise of Wisdom,' one of the oldest Arabic Compendiums of Medicine." *Isis* 16, no. 1 (1931): 6-54.
 
-[^8] British Library: Oriental Manuscripts, Arundel Or 41, f 24b, in
-[Qatar Digital Library]
-(https://www.qdl.qa/archive/81055/vdc_100023062750.0x000001) [accessed
-9 August 2022]; Pernilla Myrne, *Female Sexuality in the Early
-Medieval Islamic World: Gender and Sex in Arabic Literature.* I.B.
-Tauris, 2019: 41.
+[^8]: British Library: Oriental Manuscripts, Arundel Or 41, f 24b, in [Qatar Digital Library] (https://www.qdl.qa/archive/81055/vdc_100023062750.0x000001) [accessed 9 August 2022]; Pernilla Myrne, *Female Sexuality in the Early Medieval Islamic World: Gender and Sex in Arabic Literature.* I.B. Tauris, 2019: 41.
 
-[^9] More on this in my forthcoming dissertation, *Islam and Medicine
-in the Medieval Indian Ocean World.*
+[^9]: More on this in my forthcoming dissertation, *Islam and Medicine in the Medieval Indian Ocean World.*
 
-[^10] Sara Verskin, *Barren Women: Religion and Medicine in the
-Medieval Middle East,* De Gruyter, 2020: 122.
+[^10] Sara Verskin, *Barren Women: Religion and Medicine in the Medieval Middle East,* De Gruyter, 2020: 122.
 
 [^11] Verskin, *Barren Women,* 230-236, 262-268.
 
-[^12] Eric Moses Gurevitch, "The uses of useful knowledge and the
-languages of vernacular science: Perspectives from southwest India."
-*History of Science* 59, no. 3 (2021): 256-286, at 285.
+[^12] Eric Moses Gurevitch, "The uses of useful knowledge and the languages of vernacular science: Perspectives from southwest India." *History of Science* 59, no. 3 (2021): 256-286, at 285. 
 
-[^13] For a recent example of this see Justin K. Stearns, *Revealed
-Sciences: The Natural Sciences in Islam in Seventeenth-Century
-Morocco.* Cambridge University Press, 2021. For an exploration of local
-concerns through medical glossaries, see: Shireen Hamza, "Vernacular
-Languages and Invisible Labor in Ṭibb." *Osiris* 37, no. 1 (2022):
-115-138.
+[^13] For a recent example of this see Justin K. Stearns, *Revealed Sciences: The Natural Sciences in Islam in Seventeenth-Century Morocco.* Cambridge University Press, 2021. For an exploration of local concerns through medical glossaries, see: Shireen Hamza, "Vernacular Languages and Invisible Labor in Ṭibb." *Osiris* 37, no. 1 (2022): 115-138.
 
