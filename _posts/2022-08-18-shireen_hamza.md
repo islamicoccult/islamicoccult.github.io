@@ -1,0 +1,113 @@
+---
+layout: post
+title: Shireen Hamza on Local Authority in Transregional Sciences
+author: Shireen Hamza
+categories: contributions
+tags: [contributions]
+image: hamza1.jpg
+---
+##A Talisman for Easing Difficult Births from the Ninth to the
+Nineteenth Century##
+
+One of the last manuscripts I saw at the Biblioteca Ambrosiana in fall 2019 was a copy of *Medicine Made Easy (Tashīl al-manāfi' fī'l-ṭibb wa'l-ḥikma)*. This text was composed in fifteenth-century Yemen by Ibrāhīm ibn 'Abd al-Raḥmān al-Azraq (d. after 1485 CE), a time and place remote from most histories of science and medicine in the medieval Islamic word. On folio 227a, I came across a magic square that I had come to recognize from many other medical manuscripts made in Yemen. Little did I know at the time, this square had been recommended to ease difficult labor since the ninth century:
+
+  -------------
+  | 4 | 9 | 2 |
+  -------------
+  | 3 | 5 | 7 |
+  -------------
+  | 8 | 1 | 6 |
+  -------------
+
+I have placed the numerals in this digital square in the order instructed by the text, according to the conditions laid out therein:
+
+> "In *al-Durra* he said that among [the talismans] that can be written [to ease] difficult births is this 3x3 magic square. Write it out on three sherds [of pottery] untouched by water and put one of them in front of the laboring woman's face, while placing the other two on her thighs. She will give birth quickly. It is this square. [The author] made conditions for its composition: first the one should be put in its place, then the two, then the three, then the four, up until the nine numerals are complete. If one falls short of this condition, the talisman will not be effective."[^1]
+
+Whenever I see a magic square, I always want to check whether its rows, columns, and diagonals add up to the same number; so far, they always have. I wonder if the scribe who copied out this manuscript, Aḥmad ibn 'Alī, also checked the sums while transcribing the square. As he copied out this magic square and other talismans meant to regulate reproductive health, how did he imagine that future readers of this manuscript would use them? Could he have imagined some of the manuscript's readers might be women and [*khunthā* (intersex) people] (https://jhiblog.org/2020/07/01/islamic-history-and-medicine-in-trans-muslim-lives/)? Or did he assume that literate men would offer the talismans and recipes therein to women and intersex people seeking to increase their fertility, bring pregnancies to term, employ effective contraception, or induce abortion?
+
+The author, al-Azraq, says he found this square in *al-Durra*, referring to another text about healing written in Yemen two centuries earlier, the *Choice Pearls of Trusted Medicines (al-Durra al-muntakhaba fī'l-adwiyya al-mujarraba* by Abū Bakr ibn Muḥammad al-Fārisī (d. 1316). While plenty of biographical information survives about al-Fārisī, who lived in Aden and whose father was a famous astronomer at the Rasulid court, al-Azraq is a more obscure figure who likely lived inland of the Tihamah coast for some time. al-Azraq expanded on the mostly Galenic and prophetic medical content of texts written by two of his teachers, reorganizing the material and supplementing it with Galenic and talismanic knowledge from *Choice Pearls,* among other sources. I explore more of the implications of these Yemeni medical networks in my dissertation, where I study the way Muslims in medieval Egypt, Yemen, and India made medicine local, adapting it to their needs.
+
+Since I did not at first know where al-Fārisī got this magic square from, I thought this was another example of the regional circulation of medical information among ulema in Yemen. However, thanks to the comments I received on my presentation at the IOSOTR workshop in May 2021, I recognized that this magic square is much older than I had imagined.[^2] The earliest surviving record of this square is in a ninth-century text, *Paradise of Wisdom (Firdaws al-ḥikma)* by 'Ali ibn Rabban Sahl al-Ṭabarī (d. 870 CE). This is not surprising; "the widespread existence, cultural significance, and persistence of magic squares across Afro-Eurasia indicate that, far from being hidden on the edges of society---the marginal property of any one culture, time, place, or group---they were a significant and enduring phenomenon throughout the world then known to Islamicate civilization."[^3] Though the general practice of making magic squares was transregional and widespread, I will show that people in specific times and places adapted this widespread talismanic knowledge to their local needs and cultural norms.
+
+In this text, according to Bink Hallum, we find the earliest dateable *wafq* or magic square in the Islamic world, within a chapter on facilitating childbirth. Al-Ṭabarī came from an erudite Christian family serving as secretaries in Tabaristan, which is now the northern coast of Iran along the Caspian Sea. His father was renowned for his knowledge in medicine and other disciplines, and al-Ṭabarī followed suit in his studies. He moved from political service in Tabaristan to the Abbasid court at Samarra, in what is now Iraq, where eventually he became a close companion *(nadīm)* of al-Mutawakkil (r. 847-861 CE). It was during this period, in 850 CE, that he composed *Paradise of Wisdom (Firdaws al-ḥikma)*. He introduces the magic square as part of a wondrous (*'ajīb*) and tried and true (*mujarrab*) remedy his father used to use. The 3x3 magic square should be inscribed on two pieces of a clay jug, untouched by water:
+
+> “Around each one you write two verses from the Psalms, and they are brought to the woman so that she gazes intently at the writing on them. Then you place them under her feet. He [my father] used to order that a little clay be taken from a swallow's nest and ground with lily oil, that her pubes and groin be anointed with it, and that a stem of coriander be gently plucked and its root taken and bound to the woman's thigh.” [^4]
+
+![Arundel Or 41 f 135b horizontal talisman](/assets/hamza2.jpg)
+
+These instructions are absent from the way al-Fārisī and al-Azraq describe the talisman. There are some additional differences between the way al-Ṭabarī and these Yemeni authors suggest the magic square should be used. al-Ṭabarī does not put any emphasis on the order in which the numerals should be placed within the square. And while al-Ṭabarī instructs the clay sherds be buried underneath the feet of the woman in labor, the Yemeni recommend it be placed on or bound to her thighs. As Hallum highlights, the verses from the Psalms and the use of swallow's nest, lily oil and cilantro are absent from other later eutocic uses of magic squares in the Islamic world.
+
+But something remains recognizable between the fifteenth century Yemeni text and the ninth century Iraqi text (as well as between the roughly eighteenth century Yemeni manuscript and the thirteenth century manuscript of *Paradise of Wisdom* pictured here, which was owned by the famous Rabbi Yosef al-Tiflīsī, head of a Jewish community on the Black Sea coast of western Georgia.)[^5] The numbers in the square are in the same order, and the pot sherds they should be written on must never have touched water. Even though more local and confessional aspects of this remedy shift or fall away, the square and the medium it should be written on remain recognizable. The talisman continued to be copied and used by people of different faiths and in different regions for over a millennium.
+
+And it is possible that this history stretches back even further in the South Asian subcontinent, as Hallum suggests. Both in al-Ṭabarī's version as well as the Yemeni version, the person in labor is meant to gaze at the magic square, reminiscent of the Indian tradition of *aṅkayantra* or the inscription of magic squares on monuments meant to be gazed at by yogis in meditation. Around 900 CE Vṛnda includes a 3x3 magic square meant to be gazed at by someone suffering a difficult labor in his Sanskrit medical compendium, **Siddhayoga*.*[^6] Since *Paradise of Wisdom* includes a long section on ayurveda or "Indian medicine," it is possible that this practice did come to al-Ṭabarī and his father through textual (or more likely) oral transmission.
+
+What unites both al-Ṭabarī and al-Azraq are their reliance on local authorities, and in doing so, their nods to local readerships. Al-Ṭabarī cites his father, the most immediate source of his medical education, while al-Azraq cites al-Fārisī -- both figures who had reputations as trusted authorities in the authors' local contexts. And though their texts traveled far beyond their original place of authorship, both authors signal that they are writing for regional audiences throughout their texts. Even as al-Ṭabarī quotes from a variety of Greek medical authorities, he also includes local practices from Tabaristan and other regions of Persia throughout his text, especially within chapters related to childbirth.[^7] For example, the head of the Gundeshapur hospital told him of a stone that the pregnant people of Ahwaz wear to protect against miscarriage, and some women from Daylam told him this stone was common in Gilan.[^8] al-Azraq, like many of the other ulema who wrote texts of medicine between the fourteenth and sixteenth centuries in Yemen, included local names for *materia medica* from different regions of Yemen and based his own text off the one written by his well-known teacher, al-Kamarānī.[^9] In explaining local terms and practices, and in citing local authorities, these two authors balanced multiple audiences while making the text most useful to their most immediate readers.
+
+The aforementioned scribe who copied al-Azraq's text may not have realized that he was extending the magic square's history to over a millennium. While he did not include a date in the manuscript's colophon, he signed his name as follows: "the prisoner of his sins, the desirer of his lord's forgiveness, Aḥmad ibn 'Alī ibn Dāwūd ibn 'Ubayd al-Mu'allamī, al-Yafa'ānī of place, al-Shāfi'ī of creed." This shows that he was from a still different region of Yemen than either al-Fārisī or al-Azraq, Yafi' in eastern Yemen, though they all shared the Shāfi'ī affiliation. Based on the kind of paper he copied the text on and a stray marginal comment on folio 110a dated 1132 AH/1720 CE, it seems that this manuscript was copied before the early eighteenth century. A fuzzy ownership note on the cover page shows that it was purchased by one Muhammad ibn Abdallah at the end of the eighteenth or nineteenth century (1215 or 1315 AH/1800 or 1897/8 CE).
+
+Were these talismans ever copied out or sought after by women? Did this 3x3 magic square ever make it into the birthing room? The rich paratextual material of ownership notes and marginalia on manuscripts of al-Azraq's *Medicine Made Easy,* copied from North Africa to South Asia, remind me that most of their readers were men. Plenty of men were involved in women's medical care and reproductive health concerns, as Monica Green has shown in the context of medieval Europe and Sara Verskin has argued of the medieval Middle East. Male "physicians thought they ought to be involved with medical care" for their female patients, and many had close interactions with them, whether a midwife was mediating or not.[^10] It is possible that medical texts written for non-physician readers, like *Medicine Made Easy,* could have extended the desire among learned men for inclusion in the process of childbirth. The networks of ulema in Yemen in which al-Azraq was entangled suggest that his readers were primarily other scholars of Islamic religious sciences. As Verskin argues, some jurists like Ibn al-Ḥājj (d. 1336 CE) went to great lengths to police the boundary between the licit talismanic magic of ulema using holy texts from the dangerous "folk medicine" of women, viewing childbirth as a time of vulnerability when women would be open to the "non-Islamic" influences of women's "heterodox" knowledge.[^11] But even in an archive of the history of medicine dominated by men's voices, we do know that (women had medical knowledge and provided care) [https://tif.ssrc.org/2022/05/18/do-old-women-know-medicine/]. It isn't clear to me how the talisman described here relates to the knowledge of women around childbirth, if at all.
+
+This talisman, presented among other recipes and talismans meant for a discrete purpose, is eminently practical knowledge -- a vantage point onto men's interest in reproductive health -- even though it is not clear how or by whom the talisman was used. Still, inquiry into its usefulness is important. As Eric Gurevitch shows of eleventh-century scholars at the Cāḷukya court, useful and worldly knowledge was "knowledge made local," that allowed authors to "talk about everyday activities and to incorporate recipe knowledge into older epistemic hierarchies."[^12] Studying texts that call themselves practical, worldly, or useful allows historians to study the local lives of transregional sciences, from talismanic and occult knowledge to naturalistic Galenic recipes. This is a beneficial direction for the history of sciences in the Islamic world, a vast, multilingual space where knowledge was continuously "made local" across its many regions.[^13]
+
+Bio: [Shireen Hamza](shireenhamza.com) is interested in the history of science and medicine beyond the modern West. Her dissertation project is a study of how groups of Muslims made medicine local across the medieval Indian Ocean world. She has also published on the history of gender and sexuality. She is a doctoral candidate in the History of Science at Harvard University with a secondary field in Critical Media Practice, which has enabled her to use audio, moving image, and movement research to explore themes from her historical research.
+
+Images: Staatsbibliothek zu Berlin Glaser 204 portion of f. 32a in [Digitalisierte Sammlungen] (<http://resolver.staatsbibliothek-berlin.de/SBB000261C300000000>). While this image is not of the manuscript of *Medicine Made Easy* from the Biblioteca Ambrosiana described above, this copy of *Choice Pearls* dates from the same period, was also copied in Yemen, and uses quite similar paper.
+
+British Library: Oriental Manuscripts, Arundel Or 41, portion of folio 135b, in [Qatar Digital Library] (https://www.qdl.qa/en/archive/81055/vdc_100023062750.0x000001)
+
+[^1] Biblioteca Ambrosiana Arabi Nuovo Fondi E5 f. 227a.
+
+[^2] My gratitude to Noah Gardiner for pointing me to this article:
+Bink Hallum, *"*New Light on Early Arabic *Awfāq* Literature," in
+*Islamicate Occult Sciences in Theory and Practice.* Brill, 2020:
+57-161.
+
+[^3] Hallum, "New Light," 61-2.
+
+[^4] Here is the translation of these verses from Hallum, "New
+Light," 74: "Bring my soul out of prison that I may give thanks unto
+Your name. / Truly Your righteous ones will expect me when You have
+rewarded me."
+
+[^5] "Archive Information for this Record," *Firdaws al-ḥikmah
+[فردوس الحكمة]{dir="rtl"} Ṭabarī, ʿAlī ibn Sahl Rabban [طبري، علي بن سهل
+ربن]{dir="rtl"},* British Library: Oriental Manuscripts, Arundel Or 41,
+in [Qatar Digital Library]
+(https://www.qdl.qa/archive/81055/vdc_100023062750.0x000001) [accessed
+9 August 2022]
+
+[^6] Hallum, "New Light," 68-9, and 75-6.
+
+[^7] British Library: Oriental Manuscripts, Arundel Or 41, folios
+24a-b, in [Qatar Digital Library]
+(https://www.qdl.qa/archive/81055/vdc_100023062750.0x000001) [accessed
+9 August 2022]. See also references to these "superstitions" in: Max
+Meyerhof, "Alî at-Tabarî's 'Paradise of Wisdom,' one of the oldest
+Arabic Compendiums of Medicine." *Isis* 16, no. 1 (1931): 6-54.
+
+[^8] British Library: Oriental Manuscripts, Arundel Or 41, f 24b, in
+[Qatar Digital Library]
+(https://www.qdl.qa/archive/81055/vdc_100023062750.0x000001) [accessed
+9 August 2022]; Pernilla Myrne, *Female Sexuality in the Early
+Medieval Islamic World: Gender and Sex in Arabic Literature.* I.B.
+Tauris, 2019: 41.
+
+[^9] More on this in my forthcoming dissertation, *Islam and Medicine
+in the Medieval Indian Ocean World.*
+
+[^10] Sara Verskin, *Barren Women: Religion and Medicine in the
+Medieval Middle East,* De Gruyter, 2020: 122.
+
+[^11] Verskin, *Barren Women,* 230-236, 262-268.
+
+[^12] Eric Moses Gurevitch, "The uses of useful knowledge and the
+languages of vernacular science: Perspectives from southwest India."
+*History of Science* 59, no. 3 (2021): 256-286, at 285.
+
+[^13] For a recent example of this see Justin K. Stearns, *Revealed
+Sciences: The Natural Sciences in Islam in Seventeenth-Century
+Morocco.* Cambridge University Press, 2021. For an exploration of local
+concerns through medical glossaries, see: Shireen Hamza, "Vernacular
+Languages and Invisible Labor in Ṭibb." *Osiris* 37, no. 1 (2022):
+115-138.
+
