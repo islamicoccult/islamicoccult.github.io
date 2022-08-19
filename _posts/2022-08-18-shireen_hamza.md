@@ -6,7 +6,7 @@ categories: contributions
 tags: [contributions]
 image: hamza1.jpg
 ---
-###Image: A Talisman for Easing Difficult Births from the Ninth to the Nineteenth Century
+**Image: A Talisman for Easing Difficult Births from the Ninth to the Nineteenth Century**
 
 One of the last manuscripts I saw at the Biblioteca Ambrosiana in fall 2019 was a copy of *Medicine Made Easy (Tashīl al-manāfi' fī'l-ṭibb wa'l-ḥikma)*. This text was composed in fifteenth-century Yemen by Ibrāhīm ibn 'Abd al-Raḥmān al-Azraq (d. after 1485 CE), a time and place remote from most histories of science and medicine in the medieval Islamic word. On folio 227a, I came across a magic square that I had come to recognize from many other medical manuscripts made in Yemen. Little did I know at the time, this square had been recommended to ease difficult labor since the ninth century:
 
