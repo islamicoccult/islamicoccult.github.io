@@ -6,22 +6,21 @@ categories: contributions
 tags: [contributions]
 image: hamza1.jpg
 ---
-##A Talisman for Easing Difficult Births from the Ninth to the
-Nineteenth Century##
+###Image: A Talisman for Easing Difficult Births from the Ninth to the Nineteenth Century
 
 One of the last manuscripts I saw at the Biblioteca Ambrosiana in fall 2019 was a copy of *Medicine Made Easy (Tashīl al-manāfi' fī'l-ṭibb wa'l-ḥikma)*. This text was composed in fifteenth-century Yemen by Ibrāhīm ibn 'Abd al-Raḥmān al-Azraq (d. after 1485 CE), a time and place remote from most histories of science and medicine in the medieval Islamic word. On folio 227a, I came across a magic square that I had come to recognize from many other medical manuscripts made in Yemen. Little did I know at the time, this square had been recommended to ease difficult labor since the ninth century:
 
-  -------------
-  | 4 | 9 | 2 |
-  -------------
-  | 3 | 5 | 7 |
-  -------------
-  | 8 | 1 | 6 |
-  -------------
+-------------
+| 4 | 9 | 2 |
+-------------
+| 3 | 5 | 7 |
+-------------
+| 8 | 1 | 6 |
+-------------
 
 I have placed the numerals in this digital square in the order instructed by the text, according to the conditions laid out therein:
 
-> "In *al-Durra* he said that among [the talismans] that can be written [to ease] difficult births is this 3x3 magic square. Write it out on three sherds [of pottery] untouched by water and put one of them in front of the laboring woman's face, while placing the other two on her thighs. She will give birth quickly. It is this square. [The author] made conditions for its composition: first the one should be put in its place, then the two, then the three, then the four, up until the nine numerals are complete. If one falls short of this condition, the talisman will not be effective."[^1]
+> In *al-Durra* he said that among [the talismans] that can be written [to ease] difficult births is this 3x3 magic square. Write it out on three sherds [of pottery] untouched by water and put one of them in front of the laboring woman's face, while placing the other two on her thighs. She will give birth quickly. It is this square. [The author] made conditions for its composition: first the one should be put in its place, then the two, then the three, then the four, up until the nine numerals are complete. If one falls short of this condition, the talisman will not be effective.[^1]
 
 Whenever I see a magic square, I always want to check whether its rows, columns, and diagonals add up to the same number; so far, they always have. I wonder if the scribe who copied out this manuscript, Aḥmad ibn 'Alī, also checked the sums while transcribing the square. As he copied out this magic square and other talismans meant to regulate reproductive health, how did he imagine that future readers of this manuscript would use them? Could he have imagined some of the manuscript's readers might be women and [*khunthā* (intersex) people] (https://jhiblog.org/2020/07/01/islamic-history-and-medicine-in-trans-muslim-lives/)? Or did he assume that literate men would offer the talismans and recipes therein to women and intersex people seeking to increase their fertility, bring pregnancies to term, employ effective contraception, or induce abortion?
 
