@@ -6,7 +6,7 @@ categories: contributions
 tags: [contributions]
 image: hamza1.jpg
 ---
-**Image: A Talisman for Easing Difficult Births from the Ninth to the Nineteenth Century**
+## A Talisman for Easing Difficult Births from the Ninth to the Nineteenth Century**
 
 One of the last manuscripts I saw at the Biblioteca Ambrosiana in fall 2019 was a copy of *Medicine Made Easy (Tashīl al-manāfi' fī'l-ṭibb wa'l-ḥikma)*. This text was composed in fifteenth-century Yemen by Ibrāhīm ibn 'Abd al-Raḥmān al-Azraq (d. after 1485 CE), a time and place remote from most histories of science and medicine in the medieval Islamic word. On folio 227a, I came across a magic square that I had come to recognize from many other medical manuscripts made in Yemen. Little did I know at the time, this square had been recommended to ease difficult labor since the ninth century:
 
@@ -44,7 +44,8 @@ Were these talismans ever copied out or sought after by women? Did this 3x3 magi
 
 This talisman, presented among other recipes and talismans meant for a discrete purpose, is eminently practical knowledge -- a vantage point onto men's interest in reproductive health -- even though it is not clear how or by whom the talisman was used. Still, inquiry into its usefulness is important. As Eric Gurevitch shows of eleventh-century scholars at the Cāḷukya court, useful and worldly knowledge was "knowledge made local," that allowed authors to "talk about everyday activities and to incorporate recipe knowledge into older epistemic hierarchies."[^12] Studying texts that call themselves practical, worldly, or useful allows historians to study the local lives of transregional sciences, from talismanic and occult knowledge to naturalistic Galenic recipes. This is a beneficial direction for the history of sciences in the Islamic world, a vast, multilingual space where knowledge was continuously "made local" across its many regions.[^13]
 
-Bio: [Shireen Hamza](shireenhamza.com) is interested in the history of science and medicine beyond the modern West. Her dissertation project is a study of how groups of Muslims made medicine local across the medieval Indian Ocean world. She has also published on the history of gender and sexuality. She is a doctoral candidate in the History of Science at Harvard University with a secondary field in Critical Media Practice, which has enabled her to use audio, moving image, and movement research to explore themes from her historical research.
+### Author Bio 
+[Shireen Hamza](shireenhamza.com) is interested in the history of science and medicine beyond the modern West. Her dissertation project is a study of how groups of Muslims made medicine local across the medieval Indian Ocean world. She has also published on the history of gender and sexuality. She is a doctoral candidate in the History of Science at Harvard University with a secondary field in Critical Media Practice, which has enabled her to use audio, moving image, and movement research to explore themes from her historical research.
 
 Images: Staatsbibliothek zu Berlin Glaser 204 portion of f. 32a in [Digitalisierte Sammlungen](http://resolver.staatsbibliothek-berlin.de/SBB000261C300000000). While this image is not of the manuscript of *Medicine Made Easy* from the Biblioteca Ambrosiana described above, this copy of *Choice Pearls* dates from the same period, was also copied in Yemen, and uses quite similar paper.
 
