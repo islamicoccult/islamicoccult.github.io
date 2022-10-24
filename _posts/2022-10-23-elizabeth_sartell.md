@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ways of Knowing in Ibn al-ʿArabī's Story of Creation
+title: Elizabeth Sartell on Ways of Knowing in Ibn al-ʿArabī's Story of Creation
 author: Elizabeth Sartell
 categories: contributions
 tags: [contributions]
@@ -20,7 +20,7 @@ However, recognition of multiple and intersecting ways of studying language mean
 I propose that Ibn al-ʿArabī references this broader milieu himself, albeit indirectly. A brief glimpse into the sheer number and diversity of knowledge traditions that Ibn al-ʿArabī references and weaves into his own theory about the origins of the universe---simply through the title of his chapter on the letters in the *Futūḥāt*---may illustrate the philosophical and mystical contexts of Ibn al-ʿArabī's lettrism. Chapter 2 of Ibn al-ʿArabī's *Futūḥāt* is titled:
 
 
-> Fī maʿrifa marātib al-ḥurūf wa-l-ḥarakāt min al-ʿālam wa-mā li-hā min al-asmāʾ al-ḥusnā, wa-maʿrifa al-kalimāt, wa-maʿrifa al-ʿilm wa-l-ʿālim wa-l-maʿlūm
+> *Fī maʿrifa marātib al-ḥurūf wa-l-ḥarakāt min al-ʿālam wa-mā li-hā min al-asmāʾ al-ḥusnā, wa-maʿrifa al-kalimāt, wa-maʿrifa al-ʿilm wa-l-ʿālim wa-l-maʿlūm*
 
 
 > On the \[mystical\] knowledge of the ranks of the letters and the movements[^6] of the world, and the beautiful names that pertain to them; the \[mystical\] knowledge of words; and the \[mystical\] knowledge of \[discursive\] knowledge, the knower, and the known[^7]
