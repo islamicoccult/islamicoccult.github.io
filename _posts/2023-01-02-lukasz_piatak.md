@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Łukasz Piątak on Astral Worship in al-Suhrawardī’s Al-Wāridāt wa'l-taqdīsāt
+title: Łukasz Piątak on Astral Worship in al-Suhrawardī’s al-Wāridāt wa'l-taqdīsāt
 author: Łukasz Piątak
 categories: contributions
 tags: [contributions]
